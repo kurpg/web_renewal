@@ -1,0 +1,1 @@
+825	0	11月30日の活動	5	1385780400	0	1	0	0		+0900		0	1	2	1		<strong>11月30日の活動\n\n1部＜キャンペーン＞</strong>\n1．DX3rd　GM：オグリビー\n2．C of C　GM：岩手\n3．RQ2nd　GM：O\n\n<strong>1部</strong>\n1．パイレーツ！　GM：初代ボブ\n\n<strong>2部</strong>\n1．モノトーンミュージアム　GM：ぼんた\n2．Black Stars Rise　GM：K\n3．SW2.0　GM：破損						

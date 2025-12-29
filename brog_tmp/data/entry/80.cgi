@@ -1,0 +1,1 @@
+80	0	６月２５日、２６日の活動	5	1119625200	0	1	0	0		+0900		0	1	1	1		<strong>６月２５日</strong>\n<strong>１部（前期キャンペーン）</strong>\n・ナイトウィザード　ＧＭ：Ｒ\n・真女神転生Ⅱ誕生篇　ＧＭ；少年Ｋ\nソードワールド（ＧＭ：佐猫）は休回です\n\n<strong>２部</strong>\n・オリジナルシステム　ＧＭ：Ｏ\n・ＧＵＲＰＳ　ＧＭ：左馬\n<a href="http://www.ku-rpg.org/blog/log/eid81.html">・ペンギンライフ！　ＧＭ：Ｉ</a>\n\n<strong>６月２６日</strong>\n<strong>日曜キャンペーン</strong>\n・ＴＯＲＧ　ＧＭ：ＤＡＷＮ						

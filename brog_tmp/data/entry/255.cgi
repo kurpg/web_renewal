@@ -1,0 +1,1 @@
+255	0	６月２日の活動	5	1180710000	0	1	0	0		+0900		0	1	2	1		<strong>６月２日の活動\n一部</strong>（キャンペーン）\n・天羅ＷＡＲ　ＧＭ：赤へる\n・クトゥルフの呼び声　ＧＭ：eiden\n・ウィッチクエスト　ＧＭ；みなべ\n\n<strong>二部</strong>\n・<a href="http://www.ku-rpg.org/brog/log/eid253.html">ブルーローズ</a>　ＧＭ：クロ\n・デモンパラサイト　ＧＭ：灰月\n・<a href="http://www.ku-rpg.org/brog/log/eid252.html">三国志演技</a>　ＧＭ：蟻人\n・ブルーローズ　ＧＭ：牛殺士						

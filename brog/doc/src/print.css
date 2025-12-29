@@ -1,0 +1,191 @@
+/* [mainblock] */
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #333;
+	background-color: #fff;
+}
+h1 {
+	display: none;
+}
+hr {
+	display: none;
+}
+address {
+	margin: 10px;
+	text-align: right;
+	font-style: normal;
+	font-family: sans-serif;
+	font-size: 90%;
+	font-weight: bold;
+	color: #ddd;
+}
+a:link {
+	color: #333;
+	text-decoration: none;
+	border-bottom: 1px dashed #666;
+}
+a:visited {
+	color: #333;
+	text-decoration: none;
+	border-bottom: 1px dashed #666;
+}
+a:active {
+	color: #333;
+	text-decoration: none;
+	border-bottom: 1px dashed #666;
+}
+a:hover {
+	color: #333;
+	text-decoration: none!important;
+	border-bottom: 1px dashed #666;
+}
+/* [common parts] */
+h2 {
+	margin: 0px;
+	padding: 5px;
+	font-size: 110%;
+	font-family: "Hiragino Kaku Gothic Std",sans-serif;
+	text-align: left;
+	line-height: 1.1em;
+	border-bottom: 1px solid #ccc;
+	border-left: 10px solid #ccc;
+}
+strong {
+	font-family: "Hiragino Kaku Gothic Std",sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+em {
+	font-style: normal;
+	font-weight: normal;
+}
+img {
+	border: 0px none;
+}
+q {
+	margin-left: 0.3em;
+	margin-right: 0.3em;
+	padding: 0.1em;
+	border: 1px solid #ddd;
+}
+q:before {
+	content: '';
+}
+q:after {
+	content: '';
+}
+code {
+	font-family: mono-space;
+}
+blockquote {
+	margin: 1em;
+	padding: 0.5em;
+	border: 1px solid #ddd;
+}
+blockquote pre {
+	margin: 0px;
+	padding: 0px;
+}
+/* [main parts] */
+div.main {
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+}
+div.main h2 {
+	page-break-before: always;
+}
+div.main dl {
+	margin: 0px;
+	padding: 0px;
+}
+div.main dl dt {
+	margin: 0px;
+	padding: 14px 0px 0px 0px;
+	font-weight: bold;
+	font-family: "Hiragino Kaku Gothic Pro",sans-serif;
+	line-height: 1.3em;
+	text-align: left;
+}
+div.main dl dd {
+	margin: 0px 1em 5px 1em;
+	padding: 0px;
+	line-height: 1.4em;
+	text-align: left;
+	color: #666;
+}
+div.main dl dd.list {
+	margin: 0px;
+}
+div.main dl dd p {
+	margin: 0px 0px 1em 0px;
+	padding: 0px;
+}
+div.main dl dd p.note {
+	font-size: 90%;
+	color: #999;
+}
+div.main dl dd ul,ol {
+	margin: 0px 0px 0.8em 2em;
+	padding: 0px;
+}
+div.main dl dd ul.note {
+	font-size: 90%;
+}
+/* [list table] */
+table.list {
+	width: 100%;
+	margin: 10px 0px;
+	padding: 0px;
+	border: 1px solid #999;
+}
+table.list th {
+	margin: 0px;
+	padding: 2px;
+	text-align: center;
+	border: 1px dotted #999;
+}
+table.list th.head {
+	width: 120px;
+	text-align: right;
+}
+table.list th.top {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: "Hiragino Kaku Gothic Std",sans-serif;
+	line-height: 1.3em;
+	border: 1px dotted #999;
+}
+table.list td {
+	margin: 0px;
+	padding: 2px;
+	line-height: 1.3em;
+	text-align: left;
+	font-size: 90%;
+	border: 1px dotted #999;
+}
+table.list td.elem {
+	white-space: nowrap;
+}
+table.list td.head {
+	margin: 0px;
+	padding: 2px;
+	text-align: left;
+	font-family: "Hiragino Kaku Gothic Std",sans-serif;
+	font-weight: bold;
+	color: #fff;
+	border: 1px dotted #999;
+}
+/* [tree list] */
+ul.tree {
+	font-size: 90%;
+}
+ul.tree ul {
+	margin: 0px!important;
+	padding: 0px!important;
+}
+ul.tree li {
+	margin: 0px!important;
+	padding: 0px 0px 0px 16px!important;
+}

@@ -1,0 +1,1 @@
+81332	0	951	0	1765729047	7к	109.230.203.182	+0900	aaliyah.carrol@aol.com	https://svejk-tour.ru/	Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36	Благодаря лицензии и наличию оригинального игрового \nсофта, играть в казино 7К безопасно и надежно.					

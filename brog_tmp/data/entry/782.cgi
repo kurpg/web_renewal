@@ -1,0 +1,1 @@
+782	0	4月20日の活動	5	1366426800	0	1	2	0		+0900		0	1	2	1		<strong>4月20日の活動\n\n1部</strong>\n1．DX3rd　GM：indefinite\n2．SW2.0　GM：O\n3．SW完全版　GM：O\n4．C of C(共通)　GM：オグリビー、Popee、初代ボブ\n\n<strong>2部</strong>\n1．ARA2E　GM：Y\n2．メガトラベラー　GM：スルメイカ\n3．SW2.0　GM：S\n4．ALS　GM：カラン						

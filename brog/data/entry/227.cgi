@@ -1,0 +1,1 @@
+227	0	１２月１６日、１７日の活動	5	1166324400	0	1	0	0		+0900		0	2	2	1		<strong>１２月１６日の活動</strong>（拡大例会）\n<strong>一部</strong>\n・ナイトウィザード　ＧＭ：osm\n・Ghost Busters　ＧＭ：Ｓ\n・Double Cross 2nd　ＧＭ：藤林啓一郎\n\n<strong>二部</strong>\n・GURPS/Tis Liegues　ＧＭ：左馬\n・ベルファール魔法学園　ＧＭ：Ｓ\n・スターウォーズ　ＧＭ：茨之介\n・クトゥルフの呼び声　ＧＭ：eiden\n\n<strong>１２月１７日の活動</strong>（持ち回りキャンペーン）\n・ソードワールド　ＧＭ：ＤＡＷＮ						

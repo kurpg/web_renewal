@@ -1,0 +1,1 @@
+803	0	9月7日の活動	5	1378522800	0	1	0	0		+0900		0	1	2	1		<strong>9月7日の活動\n\n＜非公式例会＞\n1部</strong>\n1．DX3rd　GM：オグリビー\n2．SW2.0　GM：みらくる\n3．C of C　GM：crowbar\n4．ALS　GM：カラン\n\n<strong>2部</strong>\n1．インセイン　GM：スルメイカ\n2．サタスペ　GM：怪竜\n3．キルデスビジネス　GM：K						

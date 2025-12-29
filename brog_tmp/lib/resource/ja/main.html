@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="{sb_site_encoding}"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{sb_site_lang}">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset={sb_site_encoding}" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="sb" />
+<link rel="stylesheet" type="text/css" href="{sb_site_css}" title="default" media="screen,tv" />{sb_extra_style}
+<script type="text/javascript" src="{sb_site_js}"></script>
+<title>{sb_site_title}</title>
+</head>
+<body class="{sb_body_class}">
+<!-- BEGIN sb_mainhead -->
+<div class="head">
+<h1 id="top"><a href="http://serenebach.net/"><img src="{sb_site_template}blank.gif" width="210" height="50" alt="Serene Bach" title="Serene Bach" /></a></h1>
+<ul>
+<!-- BEGIN sb_headmenu -->
+<li class="menu{sb_headmenu_on}"><a href="{sb_headmenu_url}" id="menu_{sb_headmenu_id}">{sb_headmenu_name}</a></li>
+<!-- END sb_headmenu -->
+<li class="menu"><a href="{sb_menu_help}" target="_blank" id="menu_help">ヘルプ</a></li>
+</ul>
+</div><!--_end_head_-->
+<!-- END sb_mainhead -->
+<!-- BEGIN sb_mainbody -->
+<div class="body">
+<div class="mainmenu">
+<ul>
+<li class="menu"><a href="{sb_menu_view}" target="_blank" id="menu_view">ウェブページ確認</a></li>
+</ul>
+<h2 id="editmenu">編集メニュー</h2>
+<ul>
+<!-- BEGIN sb_editmenu -->
+<li class="menu{sb_editmenu_on}"><a href="{sb_editmenu_url}" id="menu_{sb_editmenu_id}">{sb_editmenu_name}</a></li>
+<!-- END sb_editmenu -->
+</ul>
+<h2 id="managemenu">管理メニュー</h2>
+<ul>
+<!-- BEGIN sb_managemenu -->
+<li class="menu{sb_managemenu_on}"><a href="{sb_managemenu_url}" id="menu_{sb_managemenu_id}">{sb_managemenu_name}</a></li>
+<!-- END sb_managemenu -->
+</ul>
+<h2 id="setupmenu">設定メニュー</h2>
+<ul>
+<!-- BEGIN sb_setupmenu -->
+<li class="menu{sb_setupmenu_on}"><a href="{sb_setupmenu_url}" id="menu_{sb_setupmenu_id}">{sb_setupmenu_name}</a></li>
+<!-- END sb_setupmenu -->
+</ul>
+<!-- BEGIN sb_utilmenu_body -->
+<h2 id="utilmenu">追加機能</h2>
+<ul>
+<!-- BEGIN sb_utilmenu -->
+<li class="menu{sb_utilmenu_on}"><a href="{sb_utilmenu_url}" id="menu_{sb_utilmenu_id}">{sb_utilmenu_name}</a></li>
+<!-- END sb_utilmenu -->
+</ul>
+<!-- END sb_utilmenu_body -->
+</div><!--_end_mainmenu_-->
+<div class="main">
+{sb_mainbody}
+</div><!--_end_main_-->
+<hr />
+</div><!--_end_body_-->
+<!-- END sb_mainbody -->
+<!-- BEGIN sb_bookmarklet -->
+{sb_mainbody}
+<!-- END sb_bookmarklet -->
+<!-- BEGIN sb_login -->
+<form action="{sb_site_cgi}" method="post" enctype="multipart/form-data" class="login">
+<h2>ログイン</h2>
+<dl>
+<dt><label for="user" accesskey="u">ユーザー名<span>[U]</span></label></dt>
+<dd><input type="text" name="__user" id="user" value="{cookie_user}" size="20" class="text" /></dd>
+<dt><label for="pass" accesskey="p">パスワード<span>[P]</span></label></dt>
+<dd><input type="password" name="__pass" id="pass" value="" size="8" maxlength="8" class="text" /></dd>
+</dl>
+<p><input type="submit" accesskey="L" value="ログイン" class="submit" />{sb_bm_para}</p>
+<p>管理スクリプトではクッキーを有効にしてください。</p>
+<!-- BEGIN sb_login_msg -->
+<p class="msg">{sb_login_message}</p>
+<!-- END sb_login_msg -->
+</form>
+<!-- END sb_login -->
+<address id="powered">Powered by <a href="{sb_webpage}">{sb_product_name}</a> <span title="build {sb_buildno}">{sb_version}</span></address>
+<address id="copyright">Copyright &copy; SimpleBoxes 2004-, All rights reserved.</address>
+</body>
+</html>

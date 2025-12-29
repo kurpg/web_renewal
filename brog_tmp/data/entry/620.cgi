@@ -1,0 +1,1 @@
+620	0	４月２３日の活動	5	1303570798	0	1	1	0		+0900		0	1	2	1		<strong>４月２３日の活動</strong>\n\n<strong>１部</strong>\n\n１　ダブルクロス３ｒｄ　ＧＭ：indefinite\n２　ＳＷ２.０　ＧＭ：thormas\n３　戦国霊異伝　ＧＭ：初代ボブ\n\n<strong>２部</strong>\n\n１　デモンパラサイト　ＧＭ：takashi\n２　<a href="http://www.ku-rpg.org/brog/log/eid622.html#sequel" target="_blank">深淵 第二版　ＧＭ：Ｋ</a>　\n３　大活劇　ＧＭ：Ｈ						

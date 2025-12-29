@@ -1,0 +1,1 @@
+698	0	5月5日の活動	5	1336229999	0	1	0	0		+0900		0	1	2	1		<strong>5月5日の活動\n\n1部</strong>\n1．<a href="http://www.ku-rpg.org/brog/log/eid691.html" target="_blank">SW完全版(共通)　GM：Si、怪竜、岩手</a>\n2．DX3rd　GM：indefinite\n3．魔道書大戦RPGマギカロギア　GM：katala\n4．大活劇　GM：白兎\n\n<strong>2部</strong>\n新入生歓迎コンパが楽しく行われました。						

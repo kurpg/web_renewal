@@ -1,0 +1,1 @@
+695	0	4月14日の活動	5	1334415599	0	1	0	0		+0900		0	1	2	1		<strong>4月14日の活動\n\n1部</strong>\n1．パラサイトブラッド(共通)　GM：lunar、羊羽、カラン\n2．エンドブレイカー　GM：怪竜\n3．PARANOIA Troubleshooters　GM：alcor\n\n<strong>2部</strong>\n1．<a href="http://www.ku-rpg.org/brog/log/eid688.html" target="_blank">ARA2e　GM：indefinite</a>\n2．Basic　GM：岩手\n3．C of C　GM：スルメイカ\n4．SW2.0　GM：meisu\n5．ARA2E　GM：mouser						

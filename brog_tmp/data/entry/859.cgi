@@ -1,0 +1,1 @@
+859	0	7月5日の活動	5	1404529200	0	1	0	0		+0900		0	1	2	1		<strong>7月5日の活動</strong>\n\n<strong>公式例会\n1部</strong>\nキャンペーン最終話\n1.basic　GM:白額虎\n2.CofC　GM:crowbar\n3.SW2.0　GM:スズキックス\n4.トーチベアラー　GM:K\n5.グランクレスト　GM:藤林啓一郎\n6.アルシャードセイヴァー　GM:カラン\n\n<strong>2部</strong>\n1.SW2.0　GM:パイの実\n2.SW完全版　GM:ポテト男\n3.DX3rd　GM:オグリビー\n4.ネクロニカ　GM:Si						

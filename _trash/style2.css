@@ -1,0 +1,16 @@
+BODY {
+ color:#333333;
+ background-color: #f5f5f5;
+ line-height:135%;
+margin:5% 5%;
+ }
+H1 { line-height : 135% ; }
+H2 { line-height : 135% ; }
+P { line-height:135%; }
+A { text-decoration:none; }
+A:link { color:#3333ff; }
+A:visited { color:#9933ff;  }
+A:active { color:#3333ff;
+ background-color:#eeeeff; }
+A:hover { color:#3333ff;
+ background-color:#eeeeff; }

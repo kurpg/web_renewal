@@ -1,0 +1,1 @@
+823	0	11月16日の活動	5	1384570800	0	1	0	0		+0900		0	1	2	1		<strong>11月16日の活動\n\n1部＜キャンペーン＞</strong>\n1．DX3rd　GM：オグリビー\n2．NW2nd　GM：くず鉄のかかし\n3．C of C　GM：岩手\n\n<strong>1部</strong>\n1．スペオペヒーローズ　GM：K\n\n<strong>2部</strong>\n1．SW2.0　GM：みらくる\n2．ARA2E　GM：怪竜\n3．SW完全版　GM：ポテト男\n4．Mouse Guard　GM：K						

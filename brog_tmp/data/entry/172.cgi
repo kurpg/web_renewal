@@ -1,0 +1,1 @@
+172	0	７月１日の活動	5	1151679600	0	1	0	0		+0900		0	1	1	1		<strong>７月１日の活動</strong>\n\n<strong>１部</strong>（前期キャンペーン）\n・異界戦記カオスフレア　ＧＭ：灰月\n・ゲヘナ〜アナスタシス〜　ＧＭ：牛殺し\n\n・放課後怪奇クラブ（単発）　ＧＭ：mono\n\n<strong>二部</strong>\n・<a href="http://www.ku-rpg.org/blog/log/eid174.html">ガープスクリスタル</a>　ＧＭ：閉じ込めの壷\n・クトゥルフの呼び声　ＧＭ：alcor\n・<a href="http://www.ku-rpg.org/blog/log/eid170.html">パイレーツ！</a>　ＧＭ：茨之介						

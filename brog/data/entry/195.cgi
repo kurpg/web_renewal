@@ -1,0 +1,1 @@
+195	0	9月23日の活動	5	1158937200	0	1	0	0		+0900		0	1	1	1		<strong>９月２３日の活動</strong>\n\n<strong>一部</strong>\n・<a href="http://www.ku-rpg.org/blog/log/eid196.html">ソードワールド</a>　ＧＭ：Ｔ\n・ベーシックロールプレイ　ＧＭ：alcor\n\n<strong>二部</strong>\n・ナイトウィザード　ＧＭ：Ｒ						

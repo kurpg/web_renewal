@@ -1,0 +1,1 @@
+821	0	10月13日の活動	5	1381633200	0	1	0	0		+0900		0	1	2	1		<strong>10月13日の活動\n\nOF2日目\n1部</strong>\n1．三国志演技　GM：初代ボブ\n2．ARA2E　GM：thormas\n3．Dungeon World　GM：K\n4．パイレーツ！　GM：I\n5．カードランカー　GM：小荒\n6．インセイン　GM：T\n\n<strong>2部</strong>\n1．マギカロギア　GM：S\n2．SW2.0　GM：たんぽぽ\n3．C of C　GM：crawbar\n4．ARA2E　GM：羊羽\n5．ARA2E　GM：Jackson\n6．放課後怪奇クラブ　GM：H\n7．MGR　GM：くず鉄のかかし						

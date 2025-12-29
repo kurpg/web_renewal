@@ -1,0 +1,1 @@
+780	0	4月6日の活動	5	1365217200	0	1	0	0		+0900		0	1	2	1		<strong>4月6日の活動\n\n1部</strong>\n1．DX3rd　GM：N\n2．SW2.0　GM：みらくる\n3．ALS　GM：T\n\n<strong>2部</strong>\n1．SW2.0　GM：W\n2．放課後怪奇クラブ　GM：S\n3．ARA2E　GM：indefinite						

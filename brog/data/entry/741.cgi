@@ -1,0 +1,1 @@
+741	0	11月10日の活動	5	1352559599	0	1	1	0		+0900		0	1	2	1		<strong>11月10日の活動\n\n1部＜キャンペーン＞</strong>\n1．パラサイトブラッド　GM：羊羽\n2．SW2.0　GM：lunan\n3．パラダイス・フリート／パイレーツ　GM：初代ボブ\n\n<strong>1部＜単発＞</strong>\n1．<a href="http://www.ku-rpg.org/brog/log/eid740.html" target="_blank">SW　GM：H</a>\n\n<strong>2部</strong>\n1．NW2nd　GM：くず鉄のかかし\n2．テラ・ガンスリンガー／DX3rd　GM：怪竜\n3．アルシャードセイヴァー　GM：カラン						

@@ -1,0 +1,204 @@
+<h2>アップロード</h2>
+<ul class="submenu">
+<li {sb_submenu_upload_form}><a href="{sb_site_cgi}?__mode=upload&amp;__type=form">一括追加</a></li>
+<li {sb_submenu_upload_main}><a href="{sb_site_cgi}?__mode=upload&amp;__type=main">リスト</a></li>
+</ul>
+<!-- BEGIN sb_upload_message -->
+<h3>処理通知</h3>
+<p class="result">{sb_process_message}</p>
+<!-- END sb_upload_message -->
+<!-- BEGIN sb_upload_form -->
+<form action="{sb_site_cgi}" name="mainform" method="post" enctype="multipart/form-data">
+<h3>新規アップロード</h3>
+<dl class="subform" style="margin-bottom: 0px;">
+<!-- BEGIN sb_upload_eachform -->
+<dt><label accesskey="{sb_upload_num}" for="upload_file{sb_upload_num}">ファイル<span>[{sb_upload_num}]</span></label></dt>
+<dd><input type="file" name="upload_file{sb_upload_num}" id="upload_file{sb_upload_num}" value="" size="40" class="text" /></dd>
+<!-- END sb_upload_eachform -->
+<!-- BEGIN sb_upload_formname -->
+<dt><label accesskey="n" for="upload_name0">名前<span>[N]</span></label></dt>
+<dd><input type="text" name="upload_name0" id="upload_name0" value="" size="30" class="text" /></dd>
+<!-- END sb_upload_formname -->
+<!-- BEGIN sb_upload_thumb -->
+<dt><label accesskey="t" for="upload_thumb">サムネイル<span>[T]</span></label>
+<dd><input type="checkbox" name="upload_thumb" id="upload_thumb" value="on" {sb_thumbchecked} /></dd>
+<!-- END sb_upload_thumb -->
+<dt><label accesskey="i" for="upload_dir">保存先<span>[I]</span></label></dt>
+<dd><select name="upload_dir" id="upload_dir">{sb_img_dir}</select></dd>
+<!-- BEGIN sb_upload_overwrite -->
+<dt><label accesskey="o" for="upload_overwrite">上書き<span>[O]</span></label>
+<dd><input type="checkbox" name="upload_overwrite" id="upload_overwrite" value="on" /></dd>
+<!-- END sb_upload_overwrite -->
+</dl>
+<dl class="subform">
+<dt class="submit">追加</dt>
+<dd class="submit">
+<input type="hidden" name="__mode" value="upload" />
+<input type="hidden" name="__regi" value="upload" />
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="submit" name="upload" value="&gt; 追加する &lt;" class="button" />
+</dd>
+</dl>
+</form>
+<!-- END sb_upload_form -->
+<!-- BEGIN sb_upload_main -->
+<table cellpadding="0" cellspacing="1" class="list">
+<!-- BEGIN sb_upload_select -->
+{sb_list_page}
+<!-- END sb_upload_select -->
+<form action="{sb_site_cgi}" method="post" enctype="multipart/form-data" name="listform">
+<tr class="lead">
+<th>ID</th>
+<th>イメージ</th>
+<th>名前</th>
+<th>保存先</th>
+<th>サイズ</th>
+<th>
+<!-- BEGIN sb_upload_select -->
+<input type="checkbox" name="selectAll" id="selectAll" onclick="switchAll(this);" />
+<!-- END sb_upload_select -->
+<!-- BEGIN sb_upload_one -->
+選択
+<!-- END sb_upload_one -->
+</th>
+</tr>
+<!-- BEGIN sb_upload_list -->
+<tr class="{sb_list_class}">
+<td style="height:{sb_img_height}px">{sb_img_id}</td>
+<td style="height:{sb_img_height}px">{sb_img_image}</td>
+<td style="height:{sb_img_height}px" class="elem"><input type="text" name="img_name{sb_img_id}" id="img_name{sb_img_id}" value="{sb_img_nametext}" size="15" class="text" style="width:150px;" {sb_img_disable} /><input type="hidden" name="iid" value="{sb_img_id}" />{sb_img_thumb}</td>
+<td style="height:{sb_img_height}px" class="elem">{sb_img_dirdisp}</td>
+<td style="height:{sb_img_height}px" class="elem">{sb_img_imagsize}</td>
+<td style="height:{sb_img_height}px"><span class="{sb_img_statclass}">{sb_img_sel}</span></td>
+</tr>
+<!-- END sb_upload_list -->
+<!-- BEGIN sb_upload_select -->
+<tr class="tool"><td colspan="6">
+[選択 : <span id="showSelected">0</span>]
+<select name="typeselect" onchange="selectType(this.value);">
+<option value="">イメージ選択</option>
+<option value="">&#x25BC;[イメージ挿入支援] ────</option>
+<option value="lst0_">利用中</option>
+<option value="lst1_">未使用</option>
+<option value="">&#x25BC;[コメントアイコン] ────</option>
+<option value="com1_">利用中</option>
+<option value="com0_">未使用</option>
+<option value="">&#x25BC;[トラックバックアイコン] ─</option>
+<option value="tb1_">利用中</option>
+<option value="tb0_">未使用</option>
+<option value="">&#x25BC;[保存先] ─────────</option>
+{sb_img_dirsel}
+</select>
+<input type="button" value="全選択" onclick="selectAllList()" />
+<input type="button" value="解除" onclick="clearAllList()" />
+</td></tr>
+<tr class="tool"><td colspan="6">
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="hidden" name="__mode" value="upload" />
+<input type="hidden" name="__regi" value="update" />
+<input type="submit" name="namechange" value="名称変更" class="button" style="float:left" />
+<label for="regi_action">選択項目について：</label>
+<select name="regi_action" id="regi_action">
+<option value="">処理内容選択</option>
+<option value="">&#x25BC;[記事作成] ────────</option>
+<option value="entry">新規記事に利用する</option>
+<option value="">&#x25BC;[イメージ削除] ──────</option>
+<option value="del">削除する</option>
+<option value="">&#x25BC;[イメージ挿入支援] ────</option>
+<option value="lst0">利用する</option>
+<option value="lst1">利用しない</option>
+<option value="">&#x25BC;[コメントアイコン] ────</option>
+<option value="com1">利用する</option>
+<option value="com0">利用しない</option>
+<option value="">&#x25BC;[トラックバックアイコン] ─</option>
+<option value="tb1">利用する</option>
+<option value="tb0">利用しない</option>
+<option value="">&#x25BC;[保存先変更] ───────</option>
+{sb_img_dirsel}
+</select>
+<input type="submit" name="submit" value="&gt; 実行 &lt;" onclick="return confirmAction();" class="button" />
+</td></tr>
+</form>
+{sb_list_page}
+<!-- END sb_upload_select -->
+<!-- BEGIN sb_upload_one -->
+<tr class="tool"><td colspan="6">
+<input type="hidden" name="__mode" value="upload" />
+<input type="hidden" name="__regi" value="update" />
+<input type="hidden" name="sel" value="{sb_img_one_id}" />
+<input type="hidden" name="iid" value="{sb_img_one_id}" />
+<input type="submit" name="namechange" value="名称変更" class="button" style="float:left" />
+このイメージを
+<select name="regi_action" id="regi_action">
+<option value="">処理内容選択</option>
+<option value="">&#x25BC;[記事作成] ────────</option>
+<option value="entry">新規記事に利用する</option>
+<option value="">&#x25BC;[イメージ削除] ──────</option>
+<option value="del">削除する</option>
+<option value="">&#x25BC;[イメージ挿入支援] ────</option>
+<option value="lst0">利用する</option>
+<option value="lst1">利用しない</option>
+<option value="">&#x25BC;[コメントアイコン] ────</option>
+<option value="com1">利用する</option>
+<option value="com0">利用しない</option>
+<option value="">&#x25BC;[トラックバックアイコン] ─</option>
+<option value="tb1">利用する</option>
+<option value="tb0">利用しない</option>
+<option value="">&#x25BC;[保存先変更] ───────</option>
+{sb_img_dirsel}
+</select>
+<input type="submit" name="action" value="&gt; 実行 &lt;" onclick="return confirmAction();" class="button" />
+</td>
+</tr></form>
+<!-- END sb_upload_one -->
+</table>
+<!-- BEGIN sb_upload_select -->
+<form action="{sb_site_cgi}" id="dispset" class="list_tool" method="post" enctype="multipart/form-data">
+<table class="list" cellpadding="0" cellspacing="1">
+<tr class="odd"><th class="head">表示数：</th>
+<td class="elem"><select name="dispnum">{sb_dispnum_option}</select></td>
+<td rowspan="4">
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="hidden" name="__mode" value="upload" />
+<input type="submit" name="submit" value="表示" class="button" />
+</td>
+</tr>
+<tr class="even"><th class="head">並び順：</th>
+<td class="elem"><select name="dispsort">
+<option value="date" {sb_dispsort_date}>日付</option>
+<option value="auth" {sb_dispsort_auth}>作成者</option>
+<option value="name" {sb_dispsort_name}>名前</option>
+</select></td>
+</tr>
+<tr class="odd">
+<th class="head">月別：</th>
+<td class="elem">
+<select name="dispdate">
+<option value="">月を指定しない</option>
+{sb_message_dispdate}
+</select></td>
+</tr>
+<tr class="even">
+<th class="head">保存先：</th>
+<td class="elem">
+<select name="dispdir">
+<option value="">保存先を指定しない</option>
+{sb_img_dispdir}
+</select>
+</td></tr>
+</table></form>
+<!-- END sb_upload_select -->
+<!-- BEGIN sb_upload_one -->
+<table cellpadding="0" cellspacing="1" class="list">
+<tr class="odd"><th class="head" style="width:100px">名前</th><td class="elem">{sb_img_one_name}</td></tr>
+<tr class="even"><th class="head">保存先</th><td class="elem">{sb_img_one_dir}</td></tr>
+<tr class="odd"><th class="head">サイズ</th><td class="elem">{sb_img_one_size}</td></tr>
+<tr class="even"><th class="head">作成者</th><td class="elem">{sb_img_one_author}</td></tr>
+<tr class="odd"><th class="head">作成日</th><td class="elem">{sb_img_one_date}</td></tr>
+<tr class="even"><th class="head">ステータス</th><td class="elem">{sb_img_one_status}</td></tr>
+<tr class="odd"><th class="head">利用記事</th><td class="elem">{sb_img_one_entry}</td></tr>
+<tr class="even"><th class="head">MIME形式</th><td class="elem">{sb_img_one_type}</td></tr>
+<tr class="odd"><td colspan="2">{sb_img_one_image}</td></tr>
+</table>
+<!-- END sb_upload_one -->
+<!-- END sb_upload_main -->

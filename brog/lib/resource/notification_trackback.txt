@@ -1,0 +1,18 @@
+{notification_title}
+
+   Entry : {entry_title}
+           {entry_parmalink}
+    Date : {receive_date}
+<!-- BEGIN tb_blogname -->
+BlogName : {tb_blogname}
+<!-- END tb_blogname -->
+<!-- BEGIN tb_title -->
+   Title : {tb_title}
+<!-- END tb_title -->
+     URL : {tb_url}
+      IP : {tb_host}
+   Admin : {tb_admin_link}
+[Excerpt] --------------------------------------------------
+{tb_excerpt}
+------------------------------------------------------------
+powered by {product_name}

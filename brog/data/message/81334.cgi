@@ -1,0 +1,1 @@
+81334	0	951	0	1765759404	батареи для электроштабелёров	122.8.47.177	+0900	clarissa_fernandez@yahoo.com	https://ab-resurs.ru/battery/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36	Аккумуляторы для спецтехники техники					

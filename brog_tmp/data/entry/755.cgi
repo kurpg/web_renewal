@@ -1,0 +1,1 @@
+755	0	1月12日の活動	5	1358002799	0	1	0	0		+0900		0	1	2	1		<strong>1月12日の活動</strong>\n\n大阪大学RPG研究会様との交流会でした。\n\n<strong>1部</strong>\n1．ARA2E　GM：怪竜\n2．パラサイトブラッド　GM：灰月\n3．SW　GM：O\n\n<strong>2部</strong>\n1．<a href="http://www.ku-rpg.org/brog/log/eid753.html" target="_blank">C of C　GM：初代ボブ</a>\n2．シノビガミ　GM：K\n3．ダークブレイズ　GM：大阪大学K						

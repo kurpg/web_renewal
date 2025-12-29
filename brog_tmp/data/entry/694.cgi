@@ -1,0 +1,1 @@
+694	0	4月7日の活動	5	1333810799	0	1	0	0		+0900		0	1	2	1		<strong>4月7日の活動</strong>\n\n<strong>1部</strong>\n1．<a href="http://www.ku-rpg.org/brog/log/eid690.html" target="_blank">SW完全版　GM：Si</a>\n2．DX3rd　GM：indefinite\n3．ARA2E　GM：あじゃり\n4．天下繚乱RPG　GM：藤林啓一郎\n\n<strong>2部</strong>\n1．パイレーツ！　GM：初代ボブ\n2．エンドブレイカー！　GM：灰月\n3．Basic　GM：valkyria						

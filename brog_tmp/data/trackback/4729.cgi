@@ -1,0 +1,1 @@
+4729	0	692	1	1338286029	4月21日の活動	京大RPG研blog	http://www.ku-rpg.org/brog/log/eid696.html		4月21日の活動1部1．ARA2e  GM：羊羽2．Basic  GM：ムスカリア3．ARA  GM：Jackson4．アイドルＲＰＧ　GM：valkyria5．DX3rd  GM：藤林啓一郎2部1．SW2.0  GM：meisu2．極楽艦隊　GM：白兎3．Dungeon World  GM：...	119.25.118.120				

@@ -1,0 +1,1 @@
+795	0	6月29日の活動	5	1372474800	0	1	0	0		+0900		0	1	2	1		<strong>6月29日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW2.0　GM：みらくる\n2．ALS　GM：akareon\n3．13th Age　GM：K\n4．SW完全版　GM：M\n\n<strong>1部＜単発＞</strong>\n1．NW2nd　GM：くず鉄のかかし\n\n<strong>2部</strong>\n1．C of C　GM：岩手\n2．ダブルクロス3rd　GM：オグリビー						

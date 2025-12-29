@@ -1,0 +1,1 @@
+700	0	5月19日の活動	5	1337439599	0	1	0	0		+0900		0	1	2	1		<strong>5月19日の活動\n\n1部＜キャンペーン＞</strong>\n1．パイレーツ！　GM：初代ボブ\n2．エンドブレイカー！　GM：怪竜\n3．ARA2E　GM：meisu\n4．DX3rd　GM：藤林啓一郎\n\n<strong>2部</strong>\n1．ARA2E　GM：indefinite\n2．C of C　GM：岩手						

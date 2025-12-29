@@ -1,0 +1,160 @@
+<h2>記事カテゴリー</h2>
+<ul class="submenu">
+<li {sb_submenu_category_tree}><a href="{sb_site_cgi}?__mode=category&amp;__type=tree">ツリー表示</a></li>
+<li {sb_submenu_category_basic}><a href="{sb_site_cgi}?__mode=category&amp;__type=basic">編集モード</a></li>
+</ul>
+<!-- BEGIN sb_category_message -->
+<h3>処理通知</h3>
+<p class="result">{sb_process_message}</p>
+<!-- END sb_category_message -->
+<!-- BEGIN sb_category_basic -->
+<form action="{sb_site_cgi}" name="mainform" method="post" enctype="multipart/form-data" class="config">
+<!-- BEGIN sb_category_select -->
+<h3>新規カテゴリー</h3>
+<dl class="subform">
+<dt><label accesskey="n" for="cat_name">カテゴリー名<span>[N]</span></label></dt>
+<dd><input type="text" name="cat_name" id="cat_name" value="" size="50" class="text" /></dd>
+<dt><label accesskey="m" for="cat_main">親カテゴリー<span>[M]</span></label></dt>
+<dd><select name="cat_main" id="cat_main"><option value="">指定しない</option>{sb_cat_selector}</select></dd>
+<dt class="submit">追加</dt>
+<dd class="submit">
+<input type="hidden" name="__mode" value="category" />
+<input type="hidden" name="__regi" value="add" />
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="submit" name="add" value="&gt; 追加する &lt;" class="button" />
+</dd>
+<!-- END sb_category_select -->
+<!-- BEGIN sb_category_one -->
+<h3><a href="{sb_site_cgi}?__mode=category">[root]</a> &gt; {sb_cat_navi}</h3>
+<dl class="subform">
+<dt><label accesskey="n" for="cat_name">カテゴリー名<span>[N]</span></label></dt>
+<dd><input type="text" name="cat_name" id="cat_name" value="{sb_cat_name}" size="50" class="text" /></dd>
+<dt><label accesskey="m" for="cat_main">親カテゴリー<span>[M]</span></label></dt>
+<dd><select name="cat_main" id="cat_main"><option value="">指定しない</option>{sb_cat_selector}</select></dd>
+<dt><label accesskey="p" for="cat_tb">トラックバック<span>[P]</span></label></dt>
+<dd><input type="text" name="cat_tb" id="cat_tb" value="{sb_cat_tb}" size="50" class="text" /></dd>
+<!-- BEGIN sb_category_index -->
+<dt><label accesskey="x" for="cat_index">インデックス<span>[X]</span></label></dt>
+<dd><select name="cat_index" id="cat_index"><option value="0">インデックスページを作成しない</option><option value="1" {sb_cat_index_1}>インデックスページを作成する</option></select></dd>
+<!-- END sb_category_index -->
+<!-- BEGIN sb_category_dir -->
+<dt><label accesskey="d" for="cat_dir">保存先<span>[D]</span></label></dt>
+<dd><select name="cat_dir" id="cat_dir">{sb_cat_dir}</select></dd>
+<!-- END sb_category_dir -->
+<dt><label accesskey="i" for="cat_disptop">表示設定<span>[I]</span></label></dt>
+<dd><select name="cat_disptop" id="cat_disptop"><option value="0">トップページに表示する</option><option value="1" {sb_cat_disptop_1}>トップページに表示しない</option></select></dd>
+<dd class="form_option"><select name="cat_displist" id="cat_displist"><option value="0">カテゴリーリストに表示する</option><option value="1" {sb_cat_displist_1}>カテゴリーリストに表示しない</option></select></dd>
+<dd class="form_option"><select name="cat_dispsum" id="cat_dispsum"><option value="0">カテゴリーの説明をリストに利用しない</option><option value="1" {sb_cat_dispsum_1}>カテゴリーの説明をリストに利用する</option></select></dd>
+<dt><label accesskey="t" for="cat_temp">テンプレート<span>[T]</span></label></dt>
+<dd><select name="cat_temp" id="cat_temp"><option value="-1">標準</option>{sb_cat_temp}</select></dd>
+<dt class="note">テンプレート設定の説明</dt>
+<dd class="note">「標準」を選択した場合、「テンプレート設定」の設定を引き継ぎます。それ以外の場合は「アーカイブテンプレート」の設定よりもこちらの設定が優先されます。いずれの場合もスタイルシートは「テンプレート設定」の「CSS反映」の設定に依存します。</dd>
+</dl>
+<dl class="mainform">
+<dt id="label_category_text"><label accesskey="e" for="cat_text">説明<span>[E]</span></label></dt>
+<dd>
+<div class="entry_tool">
+<!-- BEGIN sb_entry_toolurl_body -->
+<a href="#" onclick="return addLink('cat_text')"><img src="{sb_site_template}tool/url.gif" width="30" height="20" alt="link" title="link" /></a>
+<!-- END sb_entry_toolurl_body -->
+<!-- BEGIN sb_entry_tool_body -->
+<a href="#" onclick="return addHtmlTag('cat_text','{sb_entry_tool_elem}','{sb_entry_tool_opt}');"><img src="{sb_site_template}tool/{sb_entry_tool_img}.gif" width="30" height="20" alt="{sb_entry_tool_alt}" title="{sb_entry_tool_alt}" /></a>
+<!-- END sb_entry_tool_body -->
+<!-- BEGIN sb_entry_toolent_body -->
+<a href="#" onclick="return changeEntity('cat_text',1);"><img src="{sb_site_template}tool/ent.gif" width="30" height="20" alt="&gt; → &amp;gt;" title="&gt; → &amp;gt;" /></a>
+<a href="#" onclick="return changeEntity('cat_text',0);"><img src="{sb_site_template}tool/det.gif" width="30" height="20" alt="&amp;gt; → &gt;" title="&amp;gt; → &gt;" /></a>
+<!-- END sb_entry_toolent_body -->
+<!-- BEGIN sb_entry_toolhig_body -->
+<a href="#" onclick="return changeHeight('cat_text',-1);"><img src="{sb_site_template}tool/shrink.gif" width="30" height="20" alt="縮小" title="縮小" /></a>
+<a href="#" onclick="return changeHeight('cat_text',1);"><img src="{sb_site_template}tool/expand.gif" width="30" height="20" alt="拡大" title="拡大" /></a>
+<!-- END sb_entry_toolhig_body -->
+</div>
+<div class="entry_tool">
+<!-- BEGIN sb_entry_extool_body -->
+<a href="#" onclick="return addHtmlTag('cat_text','{sb_entry_extool_elem}','{sb_entry_extool_opt}');"><img src="{sb_site_template}tool/{sb_entry_extool_img}.gif" width="30" height="20" alt="{sb_entry_extool_alt}" title="{sb_entry_extool_alt}" /></a>
+<!-- END sb_entry_extool_body -->
+</div>
+<textarea name="cat_text" id="cat_text" rows="17" cols="40" class="text">{sb_cat_text}</textarea>
+<div class="entry_tool">
+<label>イメージ挿入：</label>
+<select onchange="addText('cat_text',this.value);">
+<option value="">イメージを選択します</option>
+{sb_entry_image}
+</select>
+<label style="display:block">自動改行しない<input type="checkbox" name="cat_displine" value="on" {sb_cat_displine} /></label>
+</div>
+</dd>
+<dt class="submit">更新</dt>
+<dd class="submit">
+<input type="hidden" name="__mode" value="category" />
+<input type="hidden" name="__regi" value="detail" />
+<input type="hidden" name="cid" value="{sb_cat_id}" />
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="submit" name="detail" value="&gt; 更新する &lt;" class="button" />
+</dd>
+</dl>
+</form>
+<form action="{sb_site_cgi}" method="post" enctype="multipart/form-data" class="config">
+<dl class="subform">
+<dt><label accesskey="s" for="cat_name_sub">サブカテゴリー<span>[S]</span></label></dt>
+<dd>
+<input type="text" name="cat_name" id="cat_name_sub" value="" size="35" class="text" />
+<input type="submit" name="add" value="追加する" class="button" />
+<input type="hidden" name="__mode" value="category" />
+<input type="hidden" name="__regi" value="add" />
+<input type="hidden" name="cid" value="{sb_cat_id}" />
+<input type="hidden" name="cat_main" value="{sb_cat_id}" />
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+</dd>
+<!-- END sb_category_one -->
+</dl>
+</form>
+<form action="{sb_site_cgi}" method="post" enctype="multipart/form-data" name="cat_listform">
+<table cellpadding="0" cellspacing="1" class="list">
+<tr class="lead">
+<th>ID</th>
+<th>詳細</th>
+<th>カテゴリー名</th>
+<th>サブ</th>
+<th>記事数</th>
+<th colspan="2">順番</th>
+<th><input type="checkbox" name="selectAll" id="selectAll" onclick="switchAll(this);" /></th>
+</tr>
+<!-- BEGIN sb_category_list -->
+<tr class="{sb_list_class}">
+<td>{sb_catlist_id}</td>
+<td><a href="{sb_site_cgi}?__mode=category&amp;cid={sb_catlist_id}">詳細</a></td>
+<td class="elem">{sb_catlist_name}</td>
+<td>{sb_catlist_sub}</td>
+<td><a href="{sb_site_cgi}?__mode=list&amp;dispcat={sb_catlist_id}">{sb_catlist_num}</a></td>
+<td>{sb_catlist_order}</td>
+<td><span>{sb_catlist_del}<input type="hidden" name="sel_id" value="{sb_catlist_id}" /></span></td>
+</tr>
+<!-- END sb_category_list -->
+<tr class="tool"><td colspan="8">
+<input type="hidden" name="cid" value="{sb_cat_id}" />
+<input type="hidden" name="__mode" value="category" />
+<input type="hidden" name="__regi" value="update" />
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="submit" name="update" value="カテゴリー名変更" class="button" />
+<input type="submit" name="del" value="選択カテゴリー削除" onclick="return confirmDeleteTarget(document.cat_listform);" class="button" />
+</td></tr>
+</table>
+</form>
+<!-- BEGIN sb_category_one -->
+<form action="{sb_site_cgi}" method="post" enctype="multipart/form-data" name="listform">
+<dl class="subform">
+<dt class="submit">削除</dt>
+<dd class="submit">
+<input type="hidden" name="__mode" value="category" />
+<input type="hidden" name="__regi" value="detail" />
+<input type="hidden" name="cid" value="{sb_cat_id}" />
+<input type="submit" name="del" value="このカテゴリーを削除する" class="button" onclick="return confirmDelete();" />
+</dd>
+</dl>
+</form>
+<!-- END sb_category_one -->
+<!-- END sb_category_basic -->
+<!-- BEGIN sb_category_tree -->
+<ul class="tree">{sb_category_tree}</ul>
+<!-- END sb_category_tree -->

@@ -1,0 +1,85 @@
+<!-- BEGIN sb_profile_mode -->
+<h2>プロフィール編集</h2>
+<!-- END sb_profile_mode -->
+<!-- BEGIN sb_edituser_mode -->
+<h2>ユーザー情報編集</h2>
+<!-- END sb_edituser_mode -->
+<form action="{sb_site_cgi}" name="mainform" method="post" enctype="multipart/form-data" class="config">
+<dl class="mainform">
+<!-- BEGIN sb_profile_message -->
+<dt class="submit">処理通知</dt>
+<dd class="submit">{sb_process_message}</dd>
+<!-- END sb_profile_message -->
+<dt><label accesskey="u" for="user_name">ユーザー名<span>[U]</span></label></dt>
+<dd><input type="text" name="user_name" id="user_name" value="{sb_user_name}" size="20" class="text" /></dd>
+<dt><label accesskey="r" for="user_real">フルネーム<span>[R]</span></label></dt>
+<dd><input type="text" name="user_real" id="user_real" value="{sb_user_real}" size="40" class="text" /></dd>
+<!-- BEGIN sb_profile_changepass -->
+<dt><label accesskey="p" for="user_pass">パスワード<span>[P]</span></label></dt>
+<dd><input type="password" name="user_pass" id="user_pass" value="" size="8" maxlength="8" class="text" /></dd>
+<dt><label accesskey="c" for="user_passconf">パスワード確認<span>[C]</span></label></dt>
+<dd><input type="password" name="user_passconf" id="user_passconf" value="" size="8" maxlength="8" class="text" /></dd>
+<!-- END sb_profile_changepass -->
+<dt><label accesskey="r" for="user_mail">メールアドレス<span>[M]</span></label></dt>
+<dd><input type="text" name="user_mail" id="user_mail" value="{sb_user_mail}" size="40" class="text" /></dd>
+<dt><label accesskey="a" for="user_aws">アソシエイトID<span>[A]</span></label></dt>
+<dd><input type="text" name="user_aws" id="user_aws" value="{sb_user_aws}" size="40" class="text" /></dd>
+<dt><label accesskey="i" for="user_displist">表示設定<span>[I]</span></label></dt>
+<dd>
+<select name="user_displist" id="user_displist">
+<option value="0" {sb_user_displist_0}>ユーザーリストに表示する</option>
+<option value="1" {sb_user_displist_1}>ユーザーリストに表示しない</option>
+</select>
+</dd>
+<!-- BEGIN sb_profile_permission -->
+<dt><label accesskey="l" for="user_stat">ユーザー権限<span>[L]</span></label></dt>
+<dd>
+<select name="user_stat" id="user_stat">
+<option value="1" {sb_user_stat_1}>上級ユーザー</option>
+<option value="2" {sb_user_stat_2}>一般ユーザー</option>
+</select>
+</dd>
+<!-- END sb_profile_permission -->
+<dt id="label_user_prof"><label accesskey="d" for="user_prof">説明<span>[D]</span></label></dt>
+<dd>
+<div class="entry_tool">
+<!-- BEGIN sb_entry_toolurl_body -->
+<a href="#" onclick="return addLink('user_prof')"><img src="{sb_site_template}tool/url.gif" width="30" height="20" alt="link" title="link" /></a>
+<!-- END sb_entry_toolurl_body -->
+<!-- BEGIN sb_entry_tool_body -->
+<a href="#" onclick="return addHtmlTag('user_prof','{sb_entry_tool_elem}','{sb_entry_tool_opt}');"><img src="{sb_site_template}tool/{sb_entry_tool_img}.gif" width="30" height="20" alt="{sb_entry_tool_alt}" title="{sb_entry_tool_alt}" /></a>
+<!-- END sb_entry_tool_body -->
+<!-- BEGIN sb_entry_toolent_body -->
+<a href="#" onclick="return changeEntity('user_prof',1);"><img src="{sb_site_template}tool/ent.gif" width="30" height="20" alt="&gt; → &amp;gt;" title="&gt; → &amp;gt;" /></a>
+<a href="#" onclick="return changeEntity('user_prof',0);"><img src="{sb_site_template}tool/det.gif" width="30" height="20" alt="&amp;gt; → &gt;" title="&amp;gt; → &gt;" /></a>
+<!-- END sb_entry_toolent_body -->
+<!-- BEGIN sb_entry_toolhig_body -->
+<a href="#" onclick="return changeHeight('user_prof',-1);"><img src="{sb_site_template}tool/shrink.gif" width="30" height="20" alt="縮小" title="縮小" /></a>
+<a href="#" onclick="return changeHeight('user_prof',1);"><img src="{sb_site_template}tool/expand.gif" width="30" height="20" alt="拡大" title="拡大" /></a>
+<!-- END sb_entry_toolhig_body -->
+</div>
+<div class="entry_tool">
+<!-- BEGIN sb_entry_extool_body -->
+<a href="#" onclick="return addHtmlTag('user_prof','{sb_entry_extool_elem}','{sb_entry_extool_opt}');"><img src="{sb_site_template}tool/{sb_entry_extool_img}.gif" width="30" height="20" alt="{sb_entry_extool_alt}" title="{sb_entry_extool_alt}" /></a>
+<!-- END sb_entry_extool_body -->
+</div>
+<textarea name="user_prof" id="user_prof" rows="17" cols="40" class="text">{sb_user_prof}</textarea>
+<div class="entry_tool">
+<label>イメージ挿入：</label>
+<select onchange="addText('user_prof',this.value);">
+<option value="">イメージを選択します</option>
+{sb_entry_image}
+</select>
+</div>
+</dd>
+<dd class="form_option" style="text-align:right;"><label>自動改行しない<input type="checkbox" name="user_prof_breaks" value="on" {sb_user_form} /></label></dd>
+<dt class="submit">更新</dt>
+<dd class="submit">
+<input type="hidden" name="pid" value="{sb_user_pid}" />
+<input type="hidden" name="__mode" value="{sb_selected_mode}" />
+<input type="hidden" name="__regi" value="on" />
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="submit" name="edit" value="&gt; 更新する &lt;" class="button" />
+</dd>
+</dl>
+</form>

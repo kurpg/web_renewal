@@ -1,0 +1,241 @@
+/* [colours] */
+body {
+	color: #343;
+	background-color: #a8c4a8; /* #faffff; */
+}
+a:link {
+	color: #449;
+}
+a:visited {
+	color: #449;
+}
+a:active {
+	color: #449;
+}
+a:hover {
+	color: #966;
+}
+div.head ul li a:link,
+div.head ul li a:visited,
+div.head ul li a:active {
+	color: #fff;
+}
+div.head ul li a:hover {
+	color: #336;
+	background-color: #eef;
+}
+label span {
+	color: #999;
+}
+label span.bm {
+	color: #555;
+}
+h3 {
+	color: #456;
+	background-color: #c7d9d9;
+}
+p.note {
+	color: #789;
+}
+select {
+	color: #131;
+	background-color: #d8f4d8;
+	border-color: #797;
+}
+input.text, textarea {
+	color: #131;
+	background-color: #d8f4d8;
+	border-color: #797;
+}
+input.updown {
+	color: #131;
+	background-color: #d8f4d8;
+	border-color: #797;
+}
+div.body hr {
+	color: #a8c4a8;
+	border-top-color: #a8c4a8;
+}
+body.bm h2,
+div.main h2 {
+	color: #456;
+	background-color: #b3c3c3;
+	border-color: #676;
+}
+dl.mainform dt {
+	border-color: #a8c4a8;
+}
+dl.mainform dd textarea.text {
+	border-color: #797;
+}
+dl.mainform dd textarea#entry_summary {
+	border-color: #999;
+}
+dl.mainform dd.option table {
+	background-color: #5e7a5e;
+}
+dl.mainform dd.option table th {
+	background-color: #b3c3c3;
+}
+dl.mainform dd.option table td {
+	background-color: #b3c3c3;
+}
+dl.mainform dd.submit {
+	background-color: #88a688;
+}
+dl.mainform dd.note {
+	color: #678;
+}
+dl.subform dt {
+	border-color: #a8c4a8;
+}
+dl.subform dd.note {
+	color: #789;
+}
+dl.subform dd.submit {
+	background-color: #88a688;
+}
+dl.subform dd textarea {
+	border-color: #999;
+}
+div#edit_addfile {
+	background-color: #99b599;
+}
+div#edit_addfile dd {
+	border-color: #99b599;
+}
+div#edit_addfile dl.subform dt {
+	border-color: #99b599;
+}
+table.list {
+	background-color: #5e7a5e;
+}
+table#category_table {
+	background-color: #e8efef;
+}
+table.list tr.link td, table.list tr.link th {
+	background-color: #c8d8d8;
+}
+table.list tr.tool td, table.list tr.tool th {
+	background-color: #c3d3d3;
+}
+table.list tr.lead td, table.list tr.lead th {
+	background-color: #b3c3c3;
+}
+table.list tr.odd td, table.list tr.odd th {
+	background-color: #c3d3d3;
+}
+table.list tr.even td, table.list tr.even th {
+	background-color: #bacaca;
+}
+table.list tr.selected_odd td, table.list tr.selected_odd th {
+	background-color: #aababa;
+}
+table.list tr.selected_even td, table.list tr.selected_even th {
+	background-color: #a3b3b3;
+}
+table.list td.od {
+	background-color: #c3d3d3;
+}
+table.list td.ev {
+	background-color: #bacaca;
+}
+table.list th.top {
+	background-color: #b3c3c3;
+}
+ul.tree {
+	border-color: #5e7a5e;
+}
+ul.tree li {
+	border-color: #5e7a5e;
+}
+ul.tree li.odd {
+	background-color: #c3d3d3;
+}
+ul.tree li.even {
+	background-color: #bacaca;
+}
+.mainmenu h2 {
+	color: #465;
+	background-color: #b3c3c3;
+	border-color: #678367;
+}
+.mainmenu ul li a,
+.mainmenu ul li span {
+	border-color: #678367;
+}
+.mainmenu ul li a:link,
+.mainmenu ul li a:visited,
+.mainmenu ul li a:active {
+	color: #496549;
+	background-color: #bccccc;
+}
+.mainmenu ul li a:hover {
+	color: #678;
+	background-color: #d9e5e8;
+}
+.mainmenu ul li.menu_on span {
+	color: #567;
+	background-color: #d2e2e2;
+}
+.mainmenu ul li.menu_on a:link,
+.mainmenu ul li.menu_on a:visited,
+.mainmenu ul li.menu_on a:active {
+	color: #567;
+	background-color: #d2e2e2;
+}
+.mainmenu ul li.menu_on a:hover {
+	color: #667;
+	background-color: #f0f4f8;
+}
+a#menu_view {
+	border-color: #678367;
+}
+a#menu_view:link,
+a#menu_view:visited,
+a#menu_view:active {
+	color: #496549;
+	background-color: #e0f0f0;
+}
+a#menu_view:hover {
+	color: #678;
+	background-color: #d9e5e8;
+}
+ul.submenu {
+	border-top-color: #a8c4a8;
+}
+ul.submenu li {
+	color: #88a;
+	border-color: #666;
+	background-color: #e0f0f0;
+}
+ul.submenu li.current {
+	border-top-color: #b3c3c3;
+	background-color: #b3c3c3;
+}
+ul.submenu li.current a {
+	color: #456;
+}
+form.login {
+	border-color: #666;
+}
+form.login p.msg {
+	color: red;
+}
+address {
+	color: #666;
+}
+/* [images] */
+div.head {
+	background-image: url(../_parts/title_green.jpg);
+}
+div.body {
+	background-image: url(../_parts/background_green.gif);
+}
+body.bm h2,
+div.main h2 {
+	background-image: url(../_parts/header_back_green.gif);
+}
+.mainmenu h2 {
+	background-image: url(../_parts/header_back_green.gif);
+}

@@ -1,0 +1,1 @@
+762	0	2月16日の活動	5	1361026799	0	1	1	0		+0900		0	1	2	1		<strong>2月16日の活動</strong>\n\n<strong>虎の穴\n1部</strong>\n1．C of C　GM：オグリビー\n2．パラサイトブラッド　GM：藤林啓一郎\n\n<strong>2部</strong>\n1．アルシャードセイヴァー　GM：akareon\n2．天羅万象・零　GM：W\n3．C of C　GM：H						

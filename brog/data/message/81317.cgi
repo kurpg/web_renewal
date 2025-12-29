@@ -1,0 +1,1 @@
+81317	0	953	0	1765449148	вулкан игровые автоматы	165.231.168.226	+0900	antongrullon@yahoo.com	https://vulkan4ik.com/	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36	Чтобы мобильная версия работала стабильно и быстро, требуется подключение к сети интернет.					

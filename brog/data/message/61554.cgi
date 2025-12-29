@@ -1,0 +1,1 @@
+61554	0	943	1	1601362027	みかん箱	116.82.160.140	+0900	mandarinboite@yahoo.co.jp		Mozilla/5.0 (Linux; Android 10; MAR-LX2J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36	１回生の時に入った卓です\n楽しかったです。					

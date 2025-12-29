@@ -1,0 +1,1 @@
+828	0	12月14日の活動	5	1386990000	0	1	0	0		+0900		0	1	2	1		<strong>12月14日の活動\n\n拡大例会\n1部</strong>\n1．GHOST BUSTERS　GM：S\n2．インセイン　GM：T\n3．SW2.0　GM：S\n\n<strong>2部</strong>\n1．SW完全版　GM：ポテト男\n2．NW2nd　GM：黒和\n3．シノビガミ　GM：mouser\n4．ネクロニカ　GM：Si						

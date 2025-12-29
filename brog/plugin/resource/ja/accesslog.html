@@ -1,0 +1,137 @@
+<h2>アクセス解析</h2>
+<ul class="submenu">
+	<li {sb_accesslog_menu_setting}><a href="{sb_site_cgi}?__mode=accesslog&amp;__type=setting">設定</a></li>
+	<li {sb_accesslog_menu_detail}><a href="{sb_site_cgi}?__mode=accesslog&amp;__type=detail">詳細表示</a></li>
+	<li {sb_accesslog_menu_simple}><a href="{sb_site_cgi}?__mode=accesslog&amp;__type=simple">簡易表示</a></li>
+</ul>
+<!-- BEGIN sb_process_message -->
+<h3>処理通知</h3>
+<p class="result">{sb_process_message}</p>
+<!-- END sb_process_message -->
+<!-- BEGIN sb_accesslog_log -->
+<h3>{sb_blog_name}のアクセスログ</h3>
+<dl class="mainform">
+<dt class="note">アクセスログの表示</dt>
+<dd class="note">独自ブロック<q><code>&lt;!-- BEGIN counter --&gt;</code></q>〜<q><code>&lt;!-- END counter --&gt;</code></q>と独自タグ<q><code>&#123;collect_log&#125;</code></q>が記述されていないと正しく取得できません。</dd>
+</dl>
+<dl class="mainform">
+<dt class="option">リンク</dt>
+<dd class="option">
+<table cellpadding="0" cellspacing="1">
+<tr>
+<td style="width:83px;"><a href="#logdate">日付別</a></td>
+<td style="width:83px;"><a href="#loghour">時間帯別</a></td>
+<td style="width:83px;"><a href="#logpage">ページ別</a></td>
+<td style="width:83px;"><a href="#loghost">ホスト別</a></td>
+<td style="width:83px;"><a href="#logagnt">ブラウザ別</a></td>
+<td style="width:83px;"><a href="#logrefs">リンク元別</a></td>
+</tr>
+</table>
+<p class="note" style="text-align:right;margin-bottom:0px;">現在までの総アクセス : {sb_total_access}</p>
+</dd>
+</dl>
+<table cellpadding="0" cellspacing="1" class="list" id="logdate">
+<tr><th class="top" colspan="2">日付別集計</th></tr>
+<tr class="lead">
+<th>日付</th>
+<th style="white-space: nowrap;">アクセス</th>
+</tr>
+<!-- BEGIN sb_daylog_list -->
+<tr class="{sb_list_class}">
+<td>{sb_daylog_date}</td>
+<td class="elem"><img src="{sb_access_bar}" width="{sb_daylog_bar}" height="10" alt="" /> {sb_daylog_num}</td>
+</tr>
+<!-- END sb_daylog_list -->
+</table>
+<table cellpadding="0" cellspacing="1" class="list" id="loghour">
+<tr><th class="top" colspan="24">時間帯別集計 (%表示)</th></tr>
+<tr>
+<!-- BEGIN sb_hourlog_list -->
+<td class="{sb_time_class}" style="vertical-align:bottom;text-align:center;padding-bottom:0px;">
+{sb_hourlog_num}<br /><img src="{sb_access_bar}" width="10" height="{sb_hourlog_bar}" alt="" />
+</td>
+<!-- END sb_hourlog_list -->
+</tr>
+<tr>
+<td class="ev">00</td><td class="od">01</td><td class="ev">02</td><td class="od">03</td><td class="ev">04</td><td class="od">05</td>
+<td class="ev">06</td><td class="od">07</td><td class="ev">08</td><td class="od">09</td><td class="ev">10</td><td class="od">11</td>
+<td class="ev">12</td><td class="od">13</td><td class="ev">14</td><td class="od">15</td><td class="ev">16</td><td class="od">17</td>
+<td class="ev">18</td><td class="od">19</td><td class="ev">20</td><td class="od">21</td><td class="ev">22</td><td class="od">23</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="1" class="list" id="logpage">
+<tr><th class="top" colspan="2">ページ別集計</th></tr>
+<tr class="lead">
+<th>ページ</th>
+<th style="white-space: nowrap;">アクセス</th>
+</tr>
+<!-- BEGIN sb_pagelog_list -->
+<tr class="{sb_list_class}">
+<td class="elem">{sb_pagelog_page}</td>
+<td class="elem"><img src="{sb_access_bar}" width="{sb_pagelog_bar}" height="10" alt="" /> {sb_pagelog_num}</td>
+</tr>
+<!-- END sb_pagelog_list -->
+</table>
+<table cellpadding="0" cellspacing="1" class="list" id="loghost">
+<tr><th class="top" colspan="2">ホスト別集計</th></tr>
+<tr class="lead">
+<th>ホスト</th>
+<th style="white-space: nowrap;">アクセス</th>
+</tr>
+<!-- BEGIN sb_hostlog_list -->
+<tr class="{sb_list_class}">
+<td class="elem">{sb_hostlog_host}</td>
+<td class="elem">{sb_hostlog_num}</td>
+</tr>
+<!-- END sb_hostlog_list -->
+</table>
+<table cellpadding="0" cellspacing="1" class="list" id="logagnt">
+<tr><th class="top" colspan="2">ブラウザ別集計</th></tr>
+<tr class="lead">
+<th>ブラウザ</th>
+<th style="white-space: nowrap;">アクセス</th>
+</tr>
+<!-- BEGIN sb_agntlog_list -->
+<tr class="{sb_list_class}">
+<td class="elem">{sb_agntlog_agnt}</td>
+<td class="elem">{sb_agntlog_num}</td>
+</tr>
+<!-- END sb_agntlog_list -->
+</table>
+<table cellpadding="0" cellspacing="1" class="list" id="logrefs">
+<tr><th class="top" colspan="2">リンク元集計</th></tr>
+<tr class="lead">
+<th>リンク元</th>
+<th style="white-space: nowrap;">アクセス</th>
+</tr>
+<!-- BEGIN sb_refslog_list -->
+<tr class="{sb_list_class}">
+<td class="elem">{sb_refslog_refs}</td>
+<td class="elem"><img src="{sb_access_bar}" width="{sb_refslog_bar}" height="10" alt="" /> {sb_refslog_num}</td>
+</tr>
+<!-- END sb_refslog_list -->
+</table>
+<!-- END sb_accesslog_log -->
+<!-- BEGIN sb_accesslog_setting -->
+<h3>アクセスログ設定</h3>
+<p class="note">アクセスログ取得期間ならびに総アクセス数を変更します。</p>
+<p class="note">ログ取得期間を大きくすると、記録されるログファイルサイズが大きくなります。負荷もかかりますので、あまり大きな値にはしないで下さい。アクセス数を変更する場合は、「変更する」をチェックして下さい。</p>
+<form action="{sb_site_cgi}" name="mainform" method="post" enctype="multipart/form-data">
+<dl class="subform">
+	<dt><label accesskey="d" for="log_days">ログ取得日数<span>[D]</span></label></dt>
+	<dd><input type="text" name="log_days" id="log_days" value="{sb_log_days}" size="10" class="text" /></dd>
+	<dt><label accesskey="t" for="total_access">アクセス数<span>[T]</span></label></dt>
+	<dd>
+	<input type="text" name="total_access" id="total_access" value="{sb_total_access}" size="20" class="text" />
+	<label>変更する<input type="checkbox" name="change_total" value="on" /></label>
+	</dd>
+	<dt class="submit">変更</dt>
+	<dd class="submit">
+	<input type="hidden" name="__type" value="setting" />
+	<input type="hidden" name="__mode" value="accesslog" />
+	<input type="submit" name="__regi" value="&gt; 変更する &lt;" class="button" />
+	</dd>
+</dl>
+</form>
+<!-- END sb_accesslog_setting -->
+

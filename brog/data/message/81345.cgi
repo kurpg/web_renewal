@@ -1,0 +1,1 @@
+81345	0	951	0	1766137407	Danae	23.160.128.49	+0900	edythepicot@hotmail.fr	https://emiratesonlinecasino.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36	Some countries have specific regulations and licensing templates for online gambling, while others may have strict restrictions or outright bans.					

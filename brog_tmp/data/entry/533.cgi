@@ -1,0 +1,1 @@
+533	0	７月１７日の活動	5	1279378799	0	1	0	0		+0900		0	1	2	1		<strong>７月１７日の活動</strong>\n\n<strong>１部</strong>\n\n１　PARANOIA xp　ＧＭ：thormas\n２　クトゥルフの呼び声　ＧＭ：スルメイカ\n３　ベーシック　ＧＭ：閉じこめの壷\n４　Hero Quest ２nd　ＧＭ：Ｋ\n\n<strong>２部</strong>\n\n１　アリアンロッド　ＧＭ：Jackson\n２　クトゥルフの呼び声　ＧＭ：Ｎ\n３　ヒーローウォーズ　ＧＭ：蟻人\n４　ブルーローズ　ＧＭ：組長						

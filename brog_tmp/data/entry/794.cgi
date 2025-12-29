@@ -1,0 +1,1 @@
+794	0	6月22日の活動	5	1371870000	0	1	0	0		+0900		0	1	2	1		<strong>6月22日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW2.0　GM：みらくる\n2．ALS　GM：akareon\n3．13th Age　GM：K\n4．HERO WARS　GM：初代ボブ\n\n<strong>1部＜単発＞</strong>\n1．C of C　GM：スルメイカ\n\n<strong>2部</strong>\n1．シノビガミ　GM：O\n2．ベーシックRPG　GM：Si\n3．ダブルクロス3rd　GM：indefinite\n4．パラサイトブラッド　GM：mouser						

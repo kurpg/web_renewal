@@ -1,0 +1,1 @@
+822	0	11月2日の活動	5	1383393600	0	1	0	0		+0900		0	1	2	1		<strong>11月2日の活動\n\n1部＜キャンペーン＞</strong>\n1．DX3rd　GM：オグリビー\n2．NW2nd　GM：くず鉄のかかし\n3．C of C　GM：岩手\n4．RQ2nd　GM：O\n\n<strong>2部</strong>\n1．SW2.0　GM：破損\n2．SW2.0　GM：meisu\n3．AL2　GM：白額虎\n4．サイキックハーツ　GM：H						

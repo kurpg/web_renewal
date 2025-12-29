@@ -1,0 +1,1 @@
+739	0	11月03日の活動	5	1351954799	0	1	0	0		+0900		0	1	2	1		<strong>11月03日の活動\n\n1部</strong>\n1．SW2.0　GM：塩弟\n2．<a href="http://www.ku-rpg.org/brog/log/eid737.html" target="_blank">りゅうたま　GM：桔梗</a>\n3．DX3rd　GM：indefinite\n\n<strong>2部</strong>\n1．C of C　GM：Popee\n2．真・女神転生II　誕生編　GM：K						

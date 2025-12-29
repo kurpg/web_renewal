@@ -1,0 +1,1 @@
+428	0	５月９日の活動	5	1241881199	0	1	0	0		+0900		0	1	2	1		<strong>５月９日の活動\n\n１部\n</strong>\n１　アリアンロッド　ＧＭ：Ｊａｃｋｓｏｎ\n２　<a href="http://www.ku-rpg.org/brog/log/eid432.html" target="_blank">サマーランド　ＧＭ：ａｌｃｏｒ</a>\n３　セイクリッドドラグーン　ＧＭ：小荒\n４　アルシャードガイア　ＧＭ：藤林啓一郎\n\n<strong>２部</strong>\n\n新歓コンパ						

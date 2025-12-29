@@ -1,0 +1,16 @@
+<form action="{sb_site_cgi}" method="post" enctype="multipart/form-data">
+<tr class="link"><td colspan="{sb_table_column}">
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="hidden" name="now_page" value="{sb_pagenow}" />
+<input type="hidden" name="__mode" value="{sb_currentmode}" />
+{sb_list_params}
+[ {sb_list_printed} / {sb_list_all} ]
+<input type="submit" name="prev" value="←前" class="button" {sb_pageprev} />
+<input type="submit" name="next" value="次→" class="button" {sb_pagenext} />
+<select name="page">
+{sb_pageselect}
+</select>
+<input type="submit" name="submit" value="表示" class="button" />
+<input type="button" value="設定…" onclick="showForm('dispset')" class="button" />
+</td></tr>
+</form>

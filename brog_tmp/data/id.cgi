@@ -1,0 +1,12 @@
+plugin	5
+link	2
+entry	948
+template	6
+trackback	4730
+weblog	1
+message	61039
+image	5
+session	2527
+user	126
+category	61
+amazon	0

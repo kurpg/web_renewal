@@ -1,0 +1,1 @@
+document.write('<a href="https://ku-rpg.org/brog/sb.cgi?month=202510">&lt;&lt;</a> <span class="calendar_month">November 2025</span> | 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 <a href="https://ku-rpg.org/brog/sb.cgi?day=20251122">22</a> 23 <span class="today">24</span> 25 26 27 28 29 30 <a href="https://ku-rpg.org/brog/sb.cgi?month=202512">&gt;&gt;</a>\n');

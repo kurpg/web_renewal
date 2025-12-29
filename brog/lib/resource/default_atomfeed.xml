@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="{feed_site_encoding}" ?>
+<feed version="0.3"
+	xml:lang="{site_lang}"
+	xmlns="http://purl.org/atom/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<!-- BEGIN title -->
+	<title>{site_title}</title>
+	<link rel="alternate" type="text/html" href="{site_top}" />
+	<modified>{feed_date}</modified>
+	<tagline><![CDATA[{blog_description}]]></tagline>
+	<generator url="{script_webpage}">{script_name}</generator>
+	<!-- END title -->
+	<!-- BEGIN feed_entry -->
+	<entry>
+		<title>{feed_entry_title}</title>
+		<link rel="alternate" type="text/html" href="{feed_entry_url}" />
+		<id>{feed_entry_url}</id>
+		<issued>{feed_entry_date}</issued>
+		<modified>{feed_entry_modified}</modified>
+		<summary>{feed_entry_summary}</summary>
+		<author>
+			<name>{feed_entry_author}</name>
+		</author>
+		<dc:subject>{feed_entry_category}</dc:subject>
+		<content mode="escaped" type="text/html" xml:lang="{site_lang}"><![CDATA[{feed_entry_description}]]></content>
+	</entry>
+	<!-- END feed_entry -->
+</feed>

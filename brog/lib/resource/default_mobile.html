@@ -1,0 +1,87 @@
+<!-- BEGIN mobile_xmldeclaration -->
+<?xml version="1.0" encoding="{site_encoding}"?>
+<!-- END mobile_xmldeclaration -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.0//EN" "http://www.w3.org/TR/xhtml-basic/xhtml-basic10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{site_lang}">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset={site_encoding}" />
+<title>{site_title}</title>
+</head>
+<body>
+<!-- BEGIN mobile_top -->
+<h1><a href="{site_mobile}">{blog_name_only}</a></h1>
+<p>{blog_description}</p>
+<hr />
+{selected_entry_list}
+<hr />
+<div align="center">{prev_page_link} {page_now}/{page_num} {next_page_link}</div>
+<!-- END mobile_top -->
+<!-- BEGIN mobile_entry -->
+<h1>{entry_title}</h1>
+<p>{entry_date} {entry_disp_time}<br />{user_disp_name}</p>
+<hr />
+{entry_description}
+<hr />
+<p>{entry_link}<br />{comment_num}<br />{trackback_num}</p>
+<hr />
+<p>
+<!-- BEGIN sequel -->
+{prev_entry}<br />{next_entry}<br />
+<!-- END sequel -->
+<a href="{site_mobile}" accesskey="0">[0] [top]</a></p>
+<!-- END mobile_entry -->
+<!-- BEGIN mobile_comment_area -->
+<h1>{entry_link}</h1>
+<h2>Comments</h2>
+<hr />
+<!-- BEGIN comment -->
+<dl>
+<dt>{comment_name}</dt>
+<dd>{comment_time}</dd>
+<dd>{comment_description}</dd>
+</dl>
+<!-- END comment -->
+<p>{comment_form}<br />{comment_link}</p>
+<!-- END mobile_comment_area -->
+<!-- BEGIN mobile_trackback_area -->
+<h1>{entry_link}</h1>
+<h2>Trackbacks</h2>
+<hr />
+<!-- BEGIN trackback -->
+<dl>
+<dt>{trackback_title}</dt>
+<dd>{trackback_blog_name}</dd>
+<dd>{trackback_time}</dd>
+<dd>{trackback_excerpt}</dd>
+</dl>
+<!-- END trackback -->
+<p>{trackback_link}</p>
+<!-- END mobile_trackback_area -->
+<!-- BEGIN mobile_comment_form -->
+<h1>{entry_link}</h1>
+<h2>Comment Form</h2>
+<hr />
+<form action="{site_cgi}" method="get">
+<dl>
+<dt>name:</dt>
+<dd><input type="text" name="name" value="" size="10" /></dd>
+<dt>email:</dt>
+<dd><input type="text" name="email" value="" size="10" istyle="3" /></dd>
+<dt>url:</dt>
+<dd><input type="text" name="url" value="" size="10" istyle="3" /></dd>
+<dt>comments:</dt>
+<dd><textarea name="description" rows="4" cols="20"></textarea></dd>
+<dt>submit:</dt>
+<dd>
+<input type="submit" value="submit" />
+<input type="hidden" name="entry_id" value="{entry_id}" />
+<input type="hidden" name="charset" value="Shift_JIS" />
+</dd>
+</dl>
+</form>
+<p>{comment_num}</p>
+<!-- END mobile_comment_form -->
+<hr>
+<div align="right">[<a href="{script_webpage}mb.cgi">{script_name}</a> {script_version}]</div>
+</body>
+</html>

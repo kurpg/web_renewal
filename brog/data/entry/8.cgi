@@ -1,0 +1,1 @@
+8	0	２月５日の活動	5	1107564907	0	1	0	0		+0900		0	1	2	1		<b>１部</b>\n・<a href="http://www.ku-rpg.org/blog/log/eid7.html">ガンダム戦記　　ＧＭ：蟻人</a>（２部時間帯まで延長）\n・メガトラベラー　ＧＭ：小荒（再利用）\n<b>２部</b>\n・<a href="http://www.ku-rpg.org/blog/log/eid2.html">戦国霊異伝　ＧＭ：将軍</a>						

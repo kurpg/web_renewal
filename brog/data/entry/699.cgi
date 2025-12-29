@@ -1,0 +1,1 @@
+699	0	5月12日の活動	5	1336834799	0	1	0	0		+0900		0	1	2	1		<strong>5月12日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW完全版　GM：Si\n2．エンドブレイカー！　GM：怪竜\n3．ARA2E　GM：meisu\n4．DX3rd　GM：藤林啓一郎\n\n<strong>2部</strong>\n1．<a href="http://www.ku-rpg.org/brog/log/eid701.html" target="_blank">C of C　GM：あじゃり</a>\n2．三國志演技　GM：初代ボブ\n3．ゲヘナ・アナスタシス　GM：oxhummer						

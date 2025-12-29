@@ -1,0 +1,1 @@
+3875	0	5	1	1273232164	マッサーカー国家元帥	211.14.215.81	+0900		http://issiissiii.blogspot.com/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.4; .NET CLR 1.1.4322)	なるほど\n\n神話にむりくりしなくとも、そういう魔力のある道具を使う方法もありますね。					

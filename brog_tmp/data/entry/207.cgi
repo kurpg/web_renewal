@@ -1,0 +1,1 @@
+207	0	１０月１４日の活動	5	1160751600	0	1	0	0		+0900		0	1	2	1		<strong>１０月１４日の活動</strong>\n\n<strong>一部</strong>（後期キャンペーン）\n・ロードス島ＲＰＧ　ＧＭ：クロ\n・クトゥルフの呼び声　ＧＭ：alcor\n・大活劇　ＧＭ：Ｉ\n\n<strong>二部</strong>\n・スペオペヒーローズ　ＧＭ：Ｔ\n・ソードワールド　ＧＭ：みなべ\n・<a href="http://www.ku-rpg.org/blog/log/eid208.html">Werewolf: the Apocalypse</a>　ＧＭ：灰月						

@@ -1,0 +1,449 @@
+/* [mainblock] */
+body {
+	margin: 0px;
+	padding: 10px 0px 0px 0px;
+	text-align: center;
+}
+address {
+	clear: both;
+	width: 700px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 0px 10px 0px;
+	font-style: normal;
+	font-size: 11px;
+}
+address#powered {
+	padding-bottom: 0px;
+}
+address#copyright {
+	padding-top: 0px;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline!important;
+}
+/* [common parts - block] */
+h1 {
+	margin: 0px;
+	padding: 0px;
+}
+h2 {
+	font-size: 110%;
+	text-align: left;
+	line-height: 1.1em;
+}
+h3 {
+	clear: right;
+	width: 525px;
+	margin: 5px 0px 3px 0px;
+	padding: 7px 3px 5px 5px;
+	font-size: 100%;
+	font-weight: bold;
+	line-height: 1.1em;
+}
+h4 {
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	font-size: 100%;
+	font-weight: bold;
+	line-height: 1.1em;
+}
+p {
+	margin: 10px;
+	padding: 0px;
+	line-height: 1.5em;
+}
+p.note {
+	margin: 10px 20px;
+	padding: 0px;
+	line-height: 1.5em;
+	font-size: 90%;
+	text-align: left;
+}
+ul,ol {
+	margin: 10px;
+	margin-left: 3em;
+	padding: 0px;
+	line-height: 1.5em;
+}
+dl {
+	margin: 10px;
+	padding: 0px;
+	line-height: 1.5em;
+}
+dt {
+	margin: 0px;
+	padding: 0px;
+	font-weight: bold;
+}
+dd {
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 10px;
+	margin-top: -10px;
+}
+dd ul, dd ol, dd p {
+	margin-bottom: 0px;
+}
+dl.explain, dl.information {
+	font-size: 90%;
+}
+dl.explain dt {
+	margin: 0px!important;
+	padding: 0px!important;
+}
+dl.explain dd {
+	margin: 0px 0px 0px 1em!important;
+	padding: 0px!important;
+}
+blockquote {
+	margin: 1em;
+	padding: 0.5em;
+	border-width: 1px;
+	border-style: solid;
+}
+blockquote pre {
+	margin: 0px;
+	padding: 0px;
+}
+blockquote p {
+	margin: 0px!important;
+}
+/* [common parts - inline] */
+strong {
+	font-style: normal;
+	font-weight: bold;
+}
+em {
+	font-style: normal;
+	font-weight: normal;
+}
+img {
+	border: 0px none;
+}
+q {
+	margin-left: 0.3em;
+	margin-right: 0.3em;
+	padding: 0.1em;
+	border-width: 1px;
+	border-style: dashed;
+}
+q:before {
+	content: '';
+}
+q:after {
+	content: '';
+}
+/* [main parts] */
+div.body {
+/* except MacIE \*/
+	clear: both;
+/* end for MacIE */
+	width: 700px;
+	margin: 5px 0px 0px 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	background-repeat: repeat-y;
+}
+div.body hr {
+	clear: both;
+	width: 1px;
+	height: 1px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	text-align: center;
+	border-style: none;
+	border-top-style: solid;
+	border-top-width: 1px;
+}
+div.main {
+	margin: 0px 0px 0px 170px;
+	padding: 0px;
+	text-align: left;
+}
+div.main h2 {
+	margin: 0px;
+	padding: 10px;
+	text-align: right;
+	font-weight: bold;
+	border-style: solid;
+	border-width: 1px;
+	background-repeat: repeat-x;
+}
+/* [tree list] */
+ul.tree {
+	margin: 0px!important;
+	padding: 0px!important;
+	font-size: 90%;
+	list-style: none;
+}
+ul.tree ul {
+	margin: 0px!important;
+	padding: 0px!important;
+}
+ul.tree li {
+	margin: 0px!important;
+	padding: 0px 0px 0px 16px!important;
+	background-image: url(tree_lst.gif);
+	background-repeat: no-repeat;
+	list-style: none;
+}
+ul.tree li.end {
+	background-image: url(tree_end.gif);
+	list-style: none;
+}
+/* [list table] */
+table.list {
+	clear: right;
+	width: 525px;
+	margin: 10px 0px;
+	padding: 0px;
+}
+table.inline {
+	margin: 0px;
+}
+table.list td, table.list th {
+	margin: 0px;
+	padding: 2px;
+	font-size: 90%;
+	text-align: left;
+}
+table.list th {
+	text-align: center;
+	font-weight: bold;
+}
+table.list td.elem, table.list th.elem {
+	white-space: nowrap;
+}
+table.list th.top {
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 1.3em;
+}
+/* [menu parts] */
+.mainmenu {
+	float: left;
+	width: 160px;
+	margin: 0px 0px 10px 0px;
+	padding: 0px;
+	text-align: center;
+}
+.mainmenu h2 {
+	margin: 10px 5px 0px 5px;
+	padding: 3px 0px 3px 0px;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	background-repeat: repeat-x;
+}
+.mainmenu ul {
+	margin: 3px 0px 0px 0px;
+	padding: 0px;
+	list-style: none;
+}
+.mainmenu ul li {
+	display: inline;
+}
+.mainmenu ul li a {
+	display: block;
+	margin: 2px 5px 0px 5px;
+	padding: 2px 5px 2px 5px;
+	text-align: left;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 1px;
+}
+.mainmenu ul li a:hover {
+	text-decoration: none!important;
+}
+.mainmenu ul li.menu_on a:hover {
+	text-decoration: none!important;
+}
+.mainmenu ul li a#helplink {
+	margin: 10px 5px 10px 5px;
+}
+/* [fonts] */
+body, li, dt, dd, p, td, th, h2, h3, h4 {
+	font-family: "Lucida Grande", sans-serif!important;
+}
+address {
+	font-family: sans-serif;
+}
+h2, h3, h4 {
+	font-family: "Hiragino Kaku Gothic Std",sans-serif;
+}
+strong {
+	font-family: "Hiragino Kaku Gothic Std",sans-serif;
+}
+div.main h2 {
+	font-family: "Hiragino Kaku Gothic Std","Osaka",sans-serif;
+}
+dl.mainform dt {
+	font-family: "Hiragino Kaku Gothic Std",sans-serif;
+}
+ul.tree {
+	font-family: "Hiragino Kaku Gothic Std",sans-serif;
+}
+table.list th {
+	font-family: "Hiragino Kaku Gothic Std",sans-serif;
+}
+.mainmenu h2 {
+	font-family: "Hiragino Kaku Gothic Std","Osaka",sans-serif;
+}
+.mainmenu ul li a {
+	font-family: "Hiragino Kaku Gothic Std","Osaka",sans-serif;
+}
+/* [colours] */
+body {
+	color: #333;
+	background-color: #eae8f0;
+}
+a:link {
+	color: #449;
+}
+a:visited {
+	color: #449;
+}
+a:active {
+	color: #449;
+}
+a:hover {
+	color: #966;
+}
+div.head ul li a:link,
+div.head ul li a:visited,
+div.head ul li a:active {
+	color: #fff;
+}
+div.head ul li a:hover {
+	color: #336;
+	background-color: #eef;
+}
+label span {
+	color: #999;
+}
+label span.bm {
+	color: #555;
+}
+h3 {
+	color: #666;
+	background-color: #ccc;
+}
+p.note {
+	color: #666;
+}
+div.body hr {
+	color: #eae8f0;
+	border-top-color: #eae8f0;
+}
+div.main h2 {
+	color: #446;
+	background-color: #b0b0b0;
+	border-color: #666;
+}
+table.list {
+	background-color: #bbb;
+}
+table.list tr td, table.list tr th {
+	background-color: #e0e0e0;
+}
+table.list tr.odd td, table.list tr.odd th {
+	background-color: #e8e8e8;
+}
+table.list tr.even td, table.list tr.even th {
+	background-color: #e0e0e0;
+}
+table.list th.top {
+	background-color: #eee;
+}
+ul.tree {
+	border-color: #ccc;
+}
+ul.tree li {
+	border-color: #ccc;
+}
+ul.tree li.odd {
+	background-color: #e8e8e8;
+}
+ul.tree li.even {
+	background-color: #e0e0e0;
+}
+.mainmenu h2 {
+	color: #778;
+	background-color: #ddd;
+	border-color: #999;
+}
+.mainmenu ul li a {
+	border-color: #667;
+}
+.mainmenu ul li a:link {
+	color: #fff;
+	background-color: #aaaab0;
+}
+.mainmenu ul li a:visited {
+	color: #fff;
+	background-color: #aaaab0;
+}
+.mainmenu ul li a:active {
+	color: #fff;
+	background-color: #aaaab0;
+}
+.mainmenu ul li a:hover {
+	color: #fff;
+	background-color: #bbbbbf;
+}
+.mainmenu ul li.menu_on a:link {
+	color: #778;
+	background-color: #eeeef3;
+}
+.mainmenu ul li.menu_on a:visited {
+	color: #778;
+	background-color: #eeeef3;
+}
+.mainmenu ul li.menu_on a:active {
+	color: #778;
+	background-color: #eeeef3;
+}
+.mainmenu ul li.menu_on a:hover {
+	color: #667;
+	background-color: #eeeef3;
+}
+address {
+	color: #666;
+}
+q {
+	background-color: #eeeef3;
+	border-color: #999;
+}
+blockquote {
+	background-color: #e0e0e0;
+	border-color: #ccc;
+}
+/* [images] */
+div.body {
+	background-image: url(background.gif);
+}
+body.h2,
+div.main h2 {
+	background-image: url(header.gif);
+}
+.mainmenu h2 {
+	background-image: url(header.gif);
+}

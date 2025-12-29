@@ -1,0 +1,75 @@
+<h2>データ移行</h2>
+<ul class="submenu">
+	<li {sb_convert_menu_export}><a href="{sb_site_cgi}?__mode=convert&amp;__type=export">エクスポート</a></li>
+	<li {sb_convert_menu_import}><a href="{sb_site_cgi}?__mode=convert&amp;__type=import">インポート</a></li>
+</ul>
+<!-- BEGIN sb_process_message -->
+<h3>処理通知</h3>
+<p class="result">{sb_process_message}</p>
+<!-- END sb_process_message -->
+<!-- BEGIN sb_convert_import -->
+<h3>インポート</h3>
+<form action="{sb_site_cgi}" name="mainform" method="post" enctype="multipart/form-data">
+<dl class="mainform">
+<dt><label accesskey="d" for="import_data">読込データ<span>[D]</span></label></dt>
+<dd><input type="file" name="import_data" id="import_data" value="" size="40" class="text" /></dd>
+<dt>取込ユーザ処理</dt>
+<dd>
+<label>投稿者を自分にする<input type="checkbox" name="import_user" value="on" /></label>&nbsp;
+<label>新規ユーザパスワード：<input type="password" name="import_pass" value="" maxlength="8" size="8" class="text" /></label>
+</dd>
+<dt class="note">データ形式</dt>
+<dd class="note">sb にて読み込めるデータはMovable Typeで出力できるテキストログ形式、tDiary2形式(テキスト)、及び、JUGEMでサポートしているSimple XML形式です。読込データにて該当するログファイルを指定します。</dd>
+<dt class="note">tDiary2形式(テキスト)読込み時の注意</dt>
+<dd class="note">最初に記事データを読み込んでください。コメント(ツッコミ)・トラックバックデータ読込みの際は、ファイルの先頭にそれぞれ<q>TDIARY2.00.00-COMMENT</q>, <q>TDIARY2.00.00-TRACKBACK</q>を追加してください。</dd>
+<dt class="note">ユーザー処理</dt>
+<dd class="note">読み込むデータに対して、ユーザーを自分に変更する場合は「投稿者を自分にする」をチェックしてください。チェックしない場合には取り込んだユーザーに対して、初期パスワードを設定する必要があります。</dd>
+<dt class="note">読込み時の注意</dt>
+<dd class="note">読み込みには時間がかかる場合があります。ボタン連打はせず、処理通知画面が表示されるまでしばらくお待ち下さい。</dd>
+<dt class="submit">読込み</dt>
+<dd class="submit">
+<input type="hidden" name="__mode" value="convert" />
+<input type="hidden" name="__type" value="import" />
+<input type="submit" name="__regi" value="&gt; 読込 &lt;" class="button" />
+</dd>
+</dl>
+</form>
+<!-- END sb_convert_import -->
+<!-- BEGIN sb_convert_export -->
+<h3>エクスポート</h3>
+<form action="{sb_site_cgi}" name="mainform" method="post">
+<dl class="mainform">
+<dt><label accesskey="c" for="dispcat">書出し条件<span>[C]</span></label></dt>
+<dd><select name="dispcat" id="dispcat">
+<option value="">カテゴリーを指定しない</option>
+{sb_entry_cat}
+</select></dd>
+<dd class="form_option">
+<select name="dispdate">
+<option value="">月を指定しない</option>
+{sb_entry_date}
+</select></dd>
+<dt><label accesskey="t" for="convert_type">タイプ<span>[T]</span></label></dt>
+<dd><select name="convert_type">
+<option value="xml" {type_xml}>JUGEM SimpleXML形式</option>
+<option value="txt" {type_txt}>MovableType テキストログ形式</option>
+</select></dd>
+<dt class="submit">条件反映<span>[D]</span></dt>
+<dd class="submit">
+<input type="hidden" name="__mode" value="convert" />
+<input type="hidden" name="__type" value="export" />
+<input type="submit" name="reflect" value="&gt; 設定を反映する &lt;" class="button" />
+</dd>
+</dl>
+</form>
+<!-- BEGIN sb_do_export -->
+<dl class="mainform">
+<dt class="note">書出し時の注意</dt>
+<dd class="note">JUGEM SimpleXMLあるいはMovableType テキストログ形式で該当記事を書き出します。下記リンクの表示された結果を保存して頂くか、「対象をファイルに保存」で保存して下さい。通常、SimpleXML形式は「.xml」、テキストログ形式は「.txt」という拡張子を利用します。</dd>
+<dt class="submit">書出し</dt>
+<dd class="submit">
+<a href="{sb_site_cgi}?__mode=convert&amp;export=on{sb_convert_option}"><strong>書出し</strong></a>
+</dd>
+</dl>
+<!-- END sb_do_export -->
+<!-- END sb_convert_export -->

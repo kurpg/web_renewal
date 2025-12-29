@@ -1,0 +1,1 @@
+858	0	6月28日の活動	5	1403924400	0	1	0	0		+0900		0	1	2	1		<strong>6月28日の活動</strong>\n\n<strong>公式例会\n1部</strong>\nキャンペーン5話\n1.basic　GM:白額虎\n2.CofC　GM:crowbar\n3.SW2.0　GM:スズキックス\n4.トーチベアラー　GM:K\n5.グランクレスト　GM:藤林啓一郎\n6.アルシャードセイヴァー　GM:カラン\n\n<strong>2部</strong>\n1.パラノイア　GM:黒和\n2.DX3rd　GM:オグリビー\n3.ゲヘナ　GM:怪竜\n4.マギカロギア　GM:W\n5.SW2.0　GM:O						

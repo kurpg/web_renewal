@@ -1,0 +1,1 @@
+3876	0	231	1	1273232394	マッサーカー国家元帥	211.14.215.81	+0900		http://issiissiii.blogspot.com/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.4; .NET CLR 1.1.4322)	うーん　密室殺人も、発想によってはできるんですなあ。\n\nなるほど					

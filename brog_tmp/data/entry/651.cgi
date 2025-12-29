@@ -1,0 +1,1 @@
+651	0	１０月１５日の活動	5	1318690799	0	1	0	0		+0900		0	1	2	1		<strong>１０月１５日の活動</strong>\n\n<strong>一部</strong>\n1.ソード・ワールド２．０　ＧＭ：あじゃり\n2.蓬莱学園　ＧＭ：岩手\n3.Apocalypse World ＧＭ：Ｋ\n\n\n<strong>二部</strong>\n1.エンドブレイカー　ＧＭ：怪竜\n2.<a href="http://www.ku-rpg.org/brog/log/eid648.html" target="_blank">シノビガミ怪</a>　ＧＭ：mouser\n3.アリアンロッド　ＧＭ：Jackson						

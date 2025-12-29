@@ -1,0 +1,12 @@
+document.write('<ul>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid411.html">更新履歴</a> (03/25)</li>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid1008.html">ドケチな大商人</a> (11/22)</li>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid1007.html">宮廷の陰謀</a> (10/18)</li>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid1006.html">ルルブをいろいろ買ってみた</a> (07/20)</li>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid1005.html">2025年度の新歓報告</a> (05/06)</li>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid1004.html">ギルマン姫の呪い</a> (04/26)</li>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid1003.html">テキセは、良いぞ！という話</a> (02/22)</li>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid1002.html">童は黄昏に問う</a> (08/27)</li>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid1001.html">常春の島2.0レポートと感想</a> (03/01)</li>\n');
+document.write('<li><a href="https://ku-rpg.org/brog/log/eid999.html">統一卓作成記録</a> (11/29)</li>\n');
+document.write('</ul>\n');

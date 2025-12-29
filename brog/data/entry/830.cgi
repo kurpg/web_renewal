@@ -1,0 +1,1 @@
+830	0	1月11日の活動	5	1389409200	0	1	0	0		+0900		0	1	2	1		<strong>1月11日の活動</strong>\n\n大阪大学RPG研究会様との交流会でした。\n\n<strong>1部</strong>\n1．インセイン　GM：みらくる\n2．SW2.0　GM：パイの実\n3．神我狩　GM：Si\n4．Pathfinder　GM：大阪大学K\n5．トワイライトガンスモーク　GM：K\n\n<strong>2部</strong>\n1．神我狩　GM：怪流\n2．SW2.0　GM：オグリビー\n3．C of C　GM：大阪大学K						

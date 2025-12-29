@@ -1,0 +1,1 @@
+829	0	12月21日の活動	5	1387594800	0	1	0	0		+0900		0	1	2	1		<strong>12月21日の活動</strong>\n\n近畿大学エンターテイメント研究会様との交流会でした。\n\n<strong>1部</strong>\n1．モノトーンミュージアム　GM：ぼんた\n2．AL2　GM：akareon\n3．りゅうたま　GM：近畿大学K\n4．C of C　GM：近畿大学Y\n\n<strong>2部</strong>\n1．エンドブレイカー　GM：岩手\n2．AL2　GM：近畿大学K\n3．Monsters & Magic　GM：K						

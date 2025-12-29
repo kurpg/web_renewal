@@ -1,0 +1,5 @@
+type	管理用・コンテンツ用
+name	アクセス解析
+text	カウンターの設置、アクセスログの表示
+author	takkyun
+detail	http://serenebach.net/

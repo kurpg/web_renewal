@@ -1,0 +1,1 @@
+824	0	11月9日の活動	5	1383966000	0	1	0	0		+0900		0	1	2	1		<strong>11月9日の活動\n\n拡大例会\n1部</strong>\n1．Dungeon World　GM：パイの実\n2．神我狩　GM：怪竜\n3．インセイン　GM：Si\n4．SW2.0　GM：カラン\n\n<strong>2部</strong>\n1．インセイン　GM：W\n2．C of C　GM：crowbar\n3．ARA2E　GM：indefinite\n4．SW2.0　GM：黒和						

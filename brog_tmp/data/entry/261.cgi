@@ -1,0 +1,1 @@
+261	0	６月１６日の活動	5	1181919600	0	0	0	0		+0900		0	1	2	1		<strong>６月１６日の活動</strong>（拡大例会）\n<strong>一部</strong>\n・ギア・アンティーク　ＧＭ：Ｉ\n・天羅ＷＡＲ　ＧＭ：藤林啓一郎\n\n<strong>二部</strong>\n・<a href="http://www.ku-rpg.org/brog/log/eid258.html">ナイトウィザード</a>　ＧＭ：クロ\n・真・女神転生ＲＰＧ　誕生篇　ＧＭ：eiden\n・COSMIC ENCOUNTER　ＧＭ：小荒\n・エンゼルギア　ＧＭ：ＤＡＷＮ\n・クトゥルフの呼び声　ＧＭ：						

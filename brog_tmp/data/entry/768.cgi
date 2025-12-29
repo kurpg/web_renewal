@@ -1,0 +1,1 @@
+768	0	3月2日の活動	5	1362236399	0	1	0	0		+0900		0	1	2	1		<strong>3月2日の活動\n\n虎の穴\n1部</strong>\n1．アルシャードセイヴァー　GM：akareon\n2．NW2nd　GM：くず鉄のかかし\n3．ベルファール魔法学園　GM：S\n4．BASIC改　GM：O\n5．The Regiment　GM：K\n\n<strong>2部</strong>\n追い出しコンパが楽しく行われました。						

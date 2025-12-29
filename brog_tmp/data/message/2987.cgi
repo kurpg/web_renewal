@@ -1,0 +1,1 @@
+2987	0	176	1	1153136287	katala	59.135.221.5	+0900			Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Lunascape 1.4.1)	　　　　　　　　　や\n　　　　　　　　き\n　　　　　　　に\n　　　　　　く\n　　　　　サ\n　　　　い\n　　　コ\n　　う\n　だ\nね \n\nこうですか！？　わかりません！＞＜					

@@ -1,0 +1,1 @@
+834	0	2月8日の活動	5	1391828400	0	1	0	0		+0900		0	1	2	1		<strong>2月8日の活動</strong>\n\n<strong>虎の穴\n1部</strong>\n1．大活劇　GM：I\n2．MGR　GM：くず鉄のかかし\n3．AL2　GM：ぼんた\n4．ベルファール魔法学園　GM：S\n\n<strong>2部</strong>\n1．The Esoterrorists　GM：K\n2．C of C　GM：W\n3．神我狩　GM：Si\n4．BASIC　GM：オグリビー						

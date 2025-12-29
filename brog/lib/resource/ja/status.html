@@ -1,0 +1,93 @@
+<h2>ステータス</h2>
+<dl class="mainform">
+<dt class="note">{sb_blog_name}のステータス</dt>
+<dd class="note">ウェブログの最新状態を表示します。各項目について最大{sb_status_num}件ずつ表示されます。</dd>
+</dl>
+<table class="status_table">
+<tr>
+<td>
+<table cellpadding="0" cellspacing="1" class="list">
+<tr><th class="top" colspan="3">記事 [全体]</th></tr>
+<tr class="lead">
+<th>タイトル</th>
+<th>日付</th>
+<th>状態</th>
+</tr>
+<!-- BEGIN sb_status_entall_list -->
+<tr class="{sb_list_class}">
+<td class="elem">{sb_entall_subj}</td>
+<td>{sb_entall_date}</td>
+<td>{sb_entall_stat}</td>
+</tr>
+<!-- END sb_status_entall_list -->
+<tr class="link"><td colspan="3">
+非公開： {sb_entall_close} / 総数： {sb_entall_num}
+</td></tr>
+</table>
+</td>
+<td>
+<table cellpadding="0" cellspacing="1" class="list">
+<tr><th class="top" colspan="3">記事 [ユーザー]</th></tr>
+<tr class="lead">
+<th>タイトル</th>
+<th>日付</th>
+<th>状態</th>
+</tr>
+<!-- BEGIN sb_status_entusr_list -->
+<tr class="{sb_list_class}">
+<td class="elem">{sb_entusr_subj}</td>
+<td>{sb_entusr_date}</td>
+<td>{sb_entusr_stat}</td>
+</tr>
+<!-- END sb_status_entusr_list -->
+<tr class="link"><td colspan="3">
+非公開： {sb_entusr_close} / 総数： {sb_entusr_num}
+</td></tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="status_table">
+<tr>
+<td>
+<table cellpadding="0" cellspacing="1" class="list">
+<tr><th class="top" colspan="3">コメント</th></tr>
+<tr class="lead">
+<th>著者</th>
+<th>日付</th>
+<th>状態</th>
+</tr>
+<!-- BEGIN sb_status_com_list -->
+<tr class="{sb_list_class}">
+<td class="elem">{sb_com_author}</td>
+<td>{sb_com_date}</td>
+<td>{sb_com_stat}</td>
+</tr>
+<!-- END sb_status_com_list -->
+<tr class="link"><td colspan="3">
+未承認： {sb_com_close} / 総数： {sb_com_num}
+</td></tr>
+</table>
+</td>
+<td>
+<table cellpadding="0" cellspacing="1" class="list">
+<tr><th class="top" colspan="3">トラックバック</th></tr>
+<tr class="lead">
+<th>送信元</th>
+<th>日付</th>
+<th>状態</th>
+</tr>
+<!-- BEGIN sb_status_tb_list -->
+<tr class="{sb_list_class}">
+<td class="elem">{sb_tb_name}</td>
+<td>{sb_tb_date}</td>
+<td>{sb_tb_stat}</td>
+</tr>
+<!-- END sb_status_tb_list -->
+<tr class="link"><td colspan="3">
+未承認： {sb_tb_close} / 総数： {sb_tb_num}
+</td></tr>
+</table>
+</td>
+</tr>
+</table>

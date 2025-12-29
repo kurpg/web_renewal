@@ -1,0 +1,1 @@
+213	0	１０月２８日の活動	5	1161961200	0	1	0	0		+0900		0	1	2	1		<strong>１０月２８日の活動</strong>\n\n<strong>一部</strong>（後期キャンペーン）\n・クトゥルフの呼び声　ＧＭ：alcor\n・ダブルクロス２ｎｄ（単発シナリオ）　ＧＭ：Ｔａｋｏ\n・大活劇　ＧＭ：Ｉ\n\n<strong>二部</strong>\n・<a href="http://www.ku-rpg.org/blog/log/eid212.html">ソードワールド</a>　ＧＭ：Ｎ\n・天羅万象・零　ＧＭ：katala\n・ソードワールド　ＧＭ：将軍						

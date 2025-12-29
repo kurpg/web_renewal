@@ -1,0 +1,5 @@
+type	管理用・コンテンツ用
+name	ちょっと一言
+text	トップページに表示するメモの作成
+author	takkyun
+detail	http://serenebach.net/

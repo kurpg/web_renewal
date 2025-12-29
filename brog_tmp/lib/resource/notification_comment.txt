@@ -1,0 +1,20 @@
+{notification_title}
+
+   Entry : {entry_title}
+           {entry_parmalink}
+    Date : {receive_date}
+<!-- BEGIN com_name -->
+    Name : {com_name}
+<!-- END com_name -->
+<!-- BEGIN com_mail -->
+  E-Mail : {com_mail}
+<!-- END com_mail -->
+<!-- BEGIN com_url -->
+     URL : {com_url}
+<!-- END com_url -->
+      IP : {com_host}
+   Admin : {com_admin_link}
+[Comment] --------------------------------------------------
+{com_body}
+------------------------------------------------------------
+powered by {product_name}

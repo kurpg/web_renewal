@@ -1,0 +1,1 @@
+671	0	1月7日の活動	5	1325948399	0	1	0	0		+0900		0	1	2	1		<strong>1月7日の活動</strong>\n\n大阪大学RPG研究会様との交流会でした。\n\n<strong>1部</strong>\n1．エンドブレイカー　GM：怪竜 \n2．Basic　GM：岩手\n3．SW2.0　GM：mouser　 \n4．アルシャードガイア　GM：大阪大学K\n\n<strong>2部</strong>\n1．三国志演技　GN：初代ボブ\n2．ブラッド・クルセイド　GM：K\n3．マルス2nd　GM：H\n4．深淵 第2版　GM：大阪大学の方						

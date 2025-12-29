@@ -1,0 +1,1 @@
+563	0	１０月２３日、２４日の活動	5	1287932399	0	1	0	0		+0900		0	1	2	1		<strong>１０月２３日の活動</strong>\n\n<strong>１部（１、２はキャンペーン）</strong>\n\n１　ベルファール魔法学園　ＧＭ：takashi\n２　ストームブリンガー　ＧＭ：ムスカリア\n３　アリアンロッド　ＧＭ：スルメイカ\n\n<strong>２部</strong>\n\n１　ソード・ワールド２.０　ＧＭ：岩手\n２　Hero Wars　ＧＭ：初代ボブ\n\n<strong>１０月２４日の活動</strong>\n\n<strong>１部（キャンペーン）</strong>\n\n１　アリアンロッド　ＧＭ：thormas						

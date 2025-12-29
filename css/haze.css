@@ -1,0 +1,175 @@
+@charset "utf-8";
+
+/*   theme::haze, by bacon, 2018   */
+
+body {
+	color: #336;
+	background-color: #eee;
+	margin: 0.5em;
+	font-family: sans-serif;
+	font-weight: 500;
+}
+body::after {
+	clear: both;
+}
+a {
+	text-decoration: none;
+	font-weight: bold;
+	padding: 0 0.2em;
+}
+a[href^="http://"]:not([href^="http://www.ku-rpg.org/"])::after {
+	content: url("/image/exlink.png");
+	margin: 0.2em;
+}
+a[href$=".pdf"]::after {
+	content: " [PDF]";
+	font-size: small;
+	color: silver;
+}
+a:link { color:#33c; }
+a:visited { color:#63c; }
+a:not(.banner):hover { background-color:#ddf; }
+
+header {
+	margin: 1em;
+}
+hr {
+	margin: 1.5em;
+}
+h1 {
+	text-align: center;
+	margin: 0.5em 0;
+}
+section {
+	margin: 1em;
+}
+main {
+	padding:0 20%;
+	padding:0 calc(25% - 5em);
+	box-sizing: border-box;
+}
+#side+main {
+	padding:1em 20%;
+	padding:1em calc(15% - 5em);
+}
+input {
+	height: 1.5em;
+	box-sizing: content-box;
+	vertical-align: bottom;
+}
+
+.numbering {
+	counter-reset: num 0;
+}
+.numbering h2::before {
+	counter-increment: num;
+	content: counter(num) ". ";
+}
+.center {
+	text-align: center;
+	margin: 1em auto;
+}
+.ret {
+	font-family: "Courier New", monospace;
+	font-size: 1.8rem;
+}
+.pict {
+	font-family: -webkit-pictograph;
+}
+.list {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 1em auto;
+}
+.list th {
+	text-align: center;
+	min-width: 5em;
+	border: solid 1px #336;
+	background-color: #ddd;
+	padding: 0.1em 0.2em;
+}
+.list td {
+	border: solid 1px #336;
+	background-color: #fff;
+	padding: 0.1em 0.2em;
+}
+
+.archive { max-width: 46em; }
+.archive td { text-align: center; }
+.archive td:nth-last-child(1) { text-align: right; }
+.archive td:nth-last-child(2) { text-align: left; }
+
+p {
+	margin: 0.5em 0;
+}
+iframe {
+	display: block;
+	border: none;
+	width: 100%;
+	height: 6em;
+}
+h3 {
+	background-color: #cdf;
+	text-align: center;
+	padding: 0.2em 0;
+	margin: 0;
+}
+h3.new {
+	color: white;
+	background-color: #555;
+}
+h4 {
+	margin: 0.2em 0;
+}
+.table {
+	display: table;
+	width: 100%;
+	margin: 0.6em 0;
+}
+.table>h4 {
+	display: table-cell;
+	text-align: right;
+	vertical-align: middle;
+	width: 25%;
+}
+.table>* {
+	margin: 0 0.5em;
+}
+.right { text-align: right; }
+
+i {
+	font-family: "游ゴシック", sans-serif;
+}
+em {
+	font-style: normal;
+	font-weight: bold;
+}
+nav {
+	line-height: 120%;
+	padding: 1em 0;
+}
+h5 {
+	background-color: #fdf;
+	margin: 0.5em;
+	padding: 0.5em;
+}
+h5::before { content: "■ " }
+h5::after { content: " ■" }
+
+@media (max-width: 799px) {
+	#side {
+		display: none;
+	}
+}
+@media (min-width: 800px) {
+	#side {
+		float: left;
+		width: 25%;
+		height: 100%;
+		position: fixed;
+	}
+	#side+main {
+		float: right;
+		width: 75%;
+	}
+}

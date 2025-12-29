@@ -1,0 +1,14 @@
+BODY {
+ color:#333333;
+ background-color: #ffffff;
+ line-height:110%;
+ }
+
+P { line-height:110%; }
+A { text-decoration:none; }
+A:link { color:#3333ff; }
+A:visited { color:#9933ff;  }
+A:active { color:#3333ff;
+ background-color:#eeeeff; }
+A:hover { color:#3333ff;
+ background-color:#eeeeff; }

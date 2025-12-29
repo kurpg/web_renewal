@@ -1,0 +1,1 @@
+730	0	10月13日の活動	5	1350140399	0	1	0	0		+0900		0	1	2	1		<strong>10月13日の活動\n\n1部＜キャンペーン＞</strong>\n1．パラサイトブラッド　GM：羊羽\n2．SW2.0　GM：lunan\n3．パラダイス・フリート／パイレーツ　GM：初代ボブ\n4．ARA2E　GM：Jackson\n\n<strong>2部</strong>\n1．SW2.0　GM：オグリビー\n2．ARA2E　GM：indefinite\n3．シノビガミ　GM：K						

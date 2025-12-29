@@ -1,0 +1,1 @@
+630	0	６月１８日の活動	5	1308409180	0	1	0	0		+0900		0	1	2	1		<strong>６月１８日の活動</strong>\n\n<strong>１部</strong>（キャンペーン）\n１ パラサイトブラッド　ＧＭ：怪竜\n２ ダブルクロス３ｒｄ　ＧＭ：indefinite\n３ ソード・ワールド　ＧＭ：初代ボブ\n\n<strong>２部</strong>\n１ クトゥルフの呼び声　ＧＭ：あじゃり\n２ <a href="http://www.ku-rpg.org/brog/log/eid631.html" target="_blank">蓬莱学園の冒険！！　ＧＭ：岩手</a>\n３ ソード・ワールド2.0 ＧＭ：meisu						

@@ -1,0 +1,1 @@
+64	0	５月７日の活動（新歓セッション）	5	1115391600	0	1	0	1		+0900		0	1	1	1		１部\n・ナイトウィザード　ＧＭ：R\n・MAGE:The Ascension　ＧＭ：小荒\n・ギアアンティーク　ＧＭ：少年K\n\n２部\n・真女神転生II　誕生編　ＧＭ：DAWN\n<a href="http://www.ku-rpg.org/blog/log/eid69.html">・スターレジェンド　ＧＭ：ぴろき</a>\n・SHADOWRUN　ＧＭ：茨之介						

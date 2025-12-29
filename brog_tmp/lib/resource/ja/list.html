@@ -1,0 +1,119 @@
+<h2>記事リスト</h2>
+<!-- BEGIN sb_process_message -->
+<h3>処理通知</h3>
+<p class="result">{sb_process_message}</p>
+<!-- END sb_process_message -->
+<table class="list" id="entrylist" cellpadding="0" cellspacing="1">
+{sb_list_page}
+<form action="{sb_site_cgi}" method="post" enctype="multipart/form-data" name="listform">
+<tr class="lead">
+<th>ID</th>
+<th>タイトル</th>
+<th>著者</th>
+<th>日付</th>
+<th>カテゴリ</th>
+<th>状態</th>
+<th><input type="checkbox" name="selectAll" id="selectAll" onclick="switchAll(this);" /></th>
+</tr>
+<!-- BEGIN sb_entry_list -->
+<tr class="{sb_list_class}">
+<td>{sb_entry_id}</td>
+<td class="elem">{sb_entry_title}</td>
+<td class="elem">{sb_entry_author}</td>
+<td>{sb_entry_date}</td>
+<td class="elem">{sb_entry_category}</td>
+<td>{sb_entry_status}</td>
+<td><span class="cat{sb_entry_catclass}_stat{sb_entry_statclass}">{sb_entry_sel}</span></td>
+</tr>
+<!-- END sb_entry_list -->
+<tr class="tool"><td colspan="7">
+[選択 : <span id="showSelected">0</span>]
+<select name="typeselect" onchange="selectType(this.value);">
+<option value="">記事選択</option>
+<option value="">&#x25BC;[ステータス] ─────</option>
+<option value="_stat1">公開</option>
+<option value="_stat0">非公開</option>
+<option value="">&#x25BC;[カテゴリー] ─────</option>
+<option value="cat_">未分類</option>
+{sb_entry_selectcat}
+</select>
+<input type="button" value="全選択" onclick="selectAllList()" />
+<input type="button" value="解除" onclick="clearAllList()" />
+</td></tr>
+<tr class="tool"><td colspan="7">
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="hidden" name="__mode" value="list" />
+<input type="hidden" name="__regi" value="on" />
+<label for="regi_action">選択項目について：</label>
+<select name="regi_action" id="regi_action">
+<option value="">処理内容選択</option>
+<option value="">&#x25BC;[記事削除] ─────</option>
+<option value="del">削除する</option>
+<!-- BEGIN sb_entry_delcheck -->
+<option value="del_htm">削除する[HTMLファイルも]</option>
+<!-- END sb_entry_delcheck -->
+<option value="">&#x25BC;[ステータス変更] ─────</option>
+<option value="stat1">公開する</option>
+<option value="stat0">公開しない</option>
+<option value="">&#x25BC;[コメント受付変更] ─────</option>
+<option value="acm0">受け付けない</option>
+<option value="acm1">受け付ける</option>
+<option value="acm2">承認が必要</option>
+<option value="">&#x25BC;[トラックバック受付変更] ─────</option>
+<option value="atb0">受け付けない</option>
+<option value="atb1">受け付ける</option>
+<option value="atb2">承認が必要</option>
+<option value="">&#x25BC;[カテゴリー変更] ─────</option>
+{sb_entry_changecat}
+</select>
+<input type="submit" name="submit" value="&gt; 実行 &lt;" onclick="return confirmAction();" class="button" />
+</td></tr>
+</form>
+{sb_list_page}
+</table>
+<form action="{sb_site_cgi}" id="dispset" class="list_tool" method="post" enctype="multipart/form-data">
+<table class="list" cellpadding="0" cellspacing="1">
+<tr class="odd"><th class="head">表示数：</th>
+<td class="elem"><select name="dispnum">{sb_dispnum_option}</select></td>
+<td rowspan="5">
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="hidden" name="__mode" value="list" />
+<input type="submit" name="submit" value="表示" class="button" />
+</td>
+</tr>
+<tr class="even"><th class="head">並び順：</th>
+<td class="elem"><select name="dispsort">
+<option value="auth" {sb_dispsort_auth}>著者</option>
+<option value="date" {sb_dispsort_date}>日付</option>
+<option value="cat" {sb_dispsort_cat}>カテゴリー</option>
+<option value="stat" {sb_dispsort_stat}>状態</option>
+</select></td>
+</tr>
+<tr class="odd">
+<th class="head">カテゴリー：</th>
+<td class="elem">
+<select name="dispcat">
+<option value="">カテゴリーを指定しない</option>
+{sb_entry_dispcat}
+</select></td>
+</tr>
+<tr class="even">
+<th class="head">月別：</th>
+<td class="elem">
+<select name="dispdate">
+<option value="">月を指定しない</option>
+{sb_entry_dispdate}
+</select></td>
+</tr>
+<tr class="odd">
+<th class="head">検索：</th>
+<td class="elem">
+<select name="disptype">
+<option value="">条件を指定しない</option>
+<option value="subj" {sb_disptype_subj}>タイトル</option>
+<option value="auth" {sb_disptype_auth}>著者</option>
+<option value="cat" {sb_disptype_cat}>カテゴリー</option>
+</select>
+<input type="text" name="dispword" value="{sb_dispword}" class="text" size="25" /></td>
+</tr>
+</table></form>

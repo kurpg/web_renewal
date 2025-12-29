@@ -1,0 +1,1 @@
+715	0	9月1日の活動	5	1346511599	0	1	0	0		+0900		0	1	2	1		<strong>9月1日の活動\n\n1部</strong>\n1．DX3rd　GM：オグリビー\n2．パラサイトブラッド　GM：羊羽\n3．ARA2E　GM：Jackson\n\n<strong>2部</strong>\n1．NW2nd　GM：くず鉄のかかし\n2．SW　GM：初代ボブ\n3．<a href="http://www.ku-rpg.org/brog/log/eid723.html#sequel" target="_blank">SW2.0　GM：meisu</a>						

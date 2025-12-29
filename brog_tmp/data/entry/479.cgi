@@ -1,0 +1,1 @@
+479	0	１月９日の活動	5	1263049199	0	1	0	0		+0900		0	1	2	1		<strong>１月９日の活動\n\n１部</strong>\n\n１　ソードワールド２　ＧＭ：Ｌｕｎａｒ\n２　ソードワールド２　ＧＭ：ｍｅｉｓｕ\n３　<a href="http://www.ku-rpg.org/brog/log/eid480.html#sequel" target="_blank">クトゥルフの呼び声</a>　ＧＭ：組長\n４　Dogs in the Vineyard　ＧＭ：Ｋ						

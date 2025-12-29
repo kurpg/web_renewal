@@ -1,0 +1,1 @@
+749	0	12月8日の活動	5	1354978799	0	1	0	0		+0900		0	1	2	1		<strong>12月8日の活動</strong>\n\n<strong>1部</strong>\n1．SW2.0　GM：塩弟\n2．SW　GM：akareon\n3．ウィッチクエスト　GM：桔梗\n\n<strong>2部</strong>\n1．<a href="http://www.ku-rpg.org/brog/log/eid745.html" target="_blank">ARA　GM：キノ</a>\n2．C of C　GM：N\n3．SW2.0　GM：小荒\n4．C of C ダークエイジ　GM：K						

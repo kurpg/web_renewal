@@ -1,0 +1,51 @@
+<h2>ちょっと一言{sb_memomode}</h2>
+<!-- BEGIN sb_process_message -->
+<h3>処理通知</h3>
+<p class="result">{sb_process_message}</p>
+<!-- END sb_process_message -->
+<form action="{sb_site_cgi}" name="mainform" method="post" enctype="multipart/form-data">
+<h3>一言メッセージの作成</h3>
+<p class="note">トップページにのみ表示される<q><code>&lt;!-- BEGIN topmemo{sb_memomode} --&gt;</code></q>〜<q><code>&lt;!-- END topmemo{sb_memomode} --&gt;</code></q>という独自ブロックを追加します。</p>
+<p class="note">独自ブロック<q><code>topmemo</code></q>内では、メモを表示するための独自タグ<q><code>&#123;sb_memo{sb_memomode}&#125;</code></q>、メモの更新日時を表示するための独自タグ<q><code>&#123;sb_memo{sb_memomode}_time&#125;</code></q>が利用できます。</p>
+<p class="note">「保存する」を実行した際にはトップページの再構築操作も行われます。</p>
+<dl class="mainform">
+<dt id="label_user_prof"><label accesskey="m" for="topmemo">メッセージ<span>[M]</span></label></dt>
+<dd>
+<div class="entry_tool">
+<!-- BEGIN sb_entry_toolurl_body -->
+<a href="#" onclick="return addLink('topmemo')"><img src="{sb_site_template}tool/url.gif" width="30" height="20" alt="link" title="link" /></a>
+<!-- END sb_entry_toolurl_body -->
+<!-- BEGIN sb_entry_tool_body -->
+<a href="#" onclick="return addHtmlTag('topmemo','{sb_entry_tool_elem}','{sb_entry_tool_opt}');"><img src="{sb_site_template}tool/{sb_entry_tool_img}.gif" width="30" height="20" alt="{sb_entry_tool_alt}" title="{sb_entry_tool_alt}" /></a>
+<!-- END sb_entry_tool_body -->
+<!-- BEGIN sb_entry_toolent_body -->
+<a href="#" onclick="return changeEntity('topmemo',1);"><img src="{sb_site_template}tool/ent.gif" width="30" height="20" alt="&gt; → &amp;gt;" title="&gt; → &amp;gt;" /></a>
+<a href="#" onclick="return changeEntity('topmemo',0);"><img src="{sb_site_template}tool/det.gif" width="30" height="20" alt="&amp;gt; → &gt;" title="&amp;gt; → &gt;" /></a>
+<!-- END sb_entry_toolent_body -->
+<!-- BEGIN sb_entry_toolhig_body -->
+<a href="#" onclick="return changeHeight('topmemo',-1);"><img src="{sb_site_template}tool/shrink.gif" width="30" height="20" alt="縮小" title="縮小" /></a>
+<a href="#" onclick="return changeHeight('topmemo',1);"><img src="{sb_site_template}tool/expand.gif" width="30" height="20" alt="拡大" title="拡大" /></a>
+<!-- END sb_entry_toolhig_body -->
+</div>
+<div class="entry_tool">
+<!-- BEGIN sb_entry_extool_body -->
+<a href="#" onclick="return addHtmlTag('topmemo','{sb_entry_extool_elem}','{sb_entry_extool_opt}');"><img src="{sb_site_template}tool/{sb_entry_extool_img}.gif" width="30" height="20" alt="{sb_entry_extool_alt}" title="{sb_entry_extool_alt}" /></a>
+<!-- END sb_entry_extool_body -->
+</div>
+<textarea name="topmemo" id="topmemo" rows="17" cols="40" class="text">{sb_topmemo}</textarea>
+<div class="entry_tool">
+<label>イメージ挿入：</label>
+<select onchange="addText('topmemo',this.value);">
+<option value="">イメージを選択します</option>
+{sb_entry_image}
+</select>
+</div>
+</dd>
+<dd class="form_option" style="text-align:right;"><label>自動改行しない<input type="checkbox" name="topmemo_breaks" value="on" {sb_topmemo_breaks} /></label></dd>
+<dt class="submit">保存</dt>
+<dd class="submit">
+<input type="hidden" name="__mode" value="memo{sb_memomode}" />
+<input type="submit" name="__regi" value="&gt; 保存する &lt;" class="button" />
+</dd>
+</dl>
+</form>

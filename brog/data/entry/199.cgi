@@ -1,0 +1,1 @@
+199	0	９月３０日の活動	5	1159542000	0	1	0	0		+0900		0	1	1	1		<strong>９月３０日の活動</strong>\n\n<strong>一部</strong>\n・<a href="http://www.ku-rpg.org/blog/log/eid198.html">トーキョーＮＯＶＡ‐Ｄ</a>（市販シナリオ）　ＧＭ：灰月\n・<a href="http://www.ku-rpg.org/blog/log/eid200.html">アルシャードガイア</a>　ＧＭ：小荒\n・パイレーツ！　ＧＭ：茨之介\n\n<strong>二部</strong>\n・ソードワールド　ＧＭ：みなべ\n・戦国霊異伝（再利用）　ＧＭ：将軍						

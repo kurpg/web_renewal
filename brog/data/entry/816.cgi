@@ -1,0 +1,1 @@
+816	0	10月12日の活動	5	1381546800	0	1	0	0		+0900		0	1	2	1		<strong>10月12日の活動\n\nOF1日目\n統一シナリオ</strong>\n1．SW2.0　GM：akareon,オグリビー,みらくる\n\n<strong>裏卓</strong>\n1．メックウォリアーRPG　GM：I\n2．トーキョーＮ◎ＶＡ  THE AXLERATION　GM：灰月						

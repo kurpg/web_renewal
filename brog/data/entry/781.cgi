@@ -1,0 +1,1 @@
+781	0	4月13日の活動	5	1365822000	0	1	0	0		+0900		0	1	2	1		<strong>4月13日の活動\n\n1部</strong>\n1．大活劇　GM：S\n2．NW2nd　GM：くず鉄のかかし\n3．SW2.0(共通)　GM：akareon、みらくる、H\n\n<strong>2部</strong>\n1．パラサイトブラッド　GM：羊羽\n2．13th Age　GM：K\n3．NW2nd　GM：クロ\n4．SW2.0　GM：小荒\n5．ALS　GM：灰月						

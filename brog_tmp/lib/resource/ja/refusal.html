@@ -1,0 +1,77 @@
+<h2>拒否設定</h2>
+<!-- BEGIN sb_refuse_message -->
+<h3>処理通知</h3>
+<p class="result">{sb_process_message}</p>
+<!-- END sb_refuse_message -->
+<h3>コメントスパム対応</h3>
+<form action="{sb_site_cgi}" name="mainform" method="post" enctype="multipart/form-data">
+<dl class="subform">
+<dt><label accesskey="s" for="refuse_level">スパムチェック<span>[S]</span></label></dt>
+<dd>
+<select name="refuse_level" id="refuse_level">
+<option value="0" {sb_refuse_level_0} title="標準のスパムチェックは行わない">[0] 標準のスパムチェックは行わない</option>
+<option value="1" {sb_refuse_level_1} title="リファラによるスパムチェックを有効にする">[1] リファラによるスパムチェックを有効にする</option>
+<option value="2" {sb_refuse_level_2} title="クッキーによるスパムチェックを有効にする">[2] クッキーによるスパムチェックを有効にする</option>
+<option value="3" {sb_refuse_level_3} title="日本語を含まないコメントはスパムとして扱う">[3] 日本語を含まないコメントはスパムとして扱う</option>
+<option value="4" {sb_refuse_level_4} title="禁止要件を満たしたコメントをスパムとして扱う">[4] 禁止要件を満たしたコメントをスパムとして扱う</option>
+<option value="5" {sb_refuse_level_5} title="日本語を含まない、または、禁止要件を満たしたコメントをスパムとして扱う">[5] 日本語を含まない、または、禁止要件を満たしたコメントをスパムとして扱う</option>
+</select>
+</dd>
+<!-- BEGIN sb_refuse_status -->
+<dt><label accesskey="a" for="refuse_status">コメント状態<span>[A]</span></label></dt>
+<dd><label><input type="checkbox" name="refuse_status" value="discarded" {sb_refuse_status} /> スパムは破棄する</label></dt>
+<!-- END sb_refuse_status -->
+<!-- BEGIN sb_refuse_tb -->
+<dt><label accesskey="t" for="refuse_tb">トラックバック<span>[T]</span></label></dt>
+<dd><label><input type="checkbox" name="refuse_tb" value="enabled" {sb_refuse_trackback} /> トラックバックのスパムチェックを有効にする</label></dt>
+<!-- END sb_refuse_tb -->
+<!-- BEGIN sb_refuse_cookie -->
+<dt><label accesskey="c" for="refuse_cookie">クッキーID<span>[C]</span></label></dt>
+<dd><input type="text" name="refuse_cookie" id="refuse_cookie" value="{sb_refuse_cookie}" size="50" class="text" /></dd>
+<!-- END sb_refuse_cookie -->
+<!-- BEGIN sb_refuse_word -->
+<dt><label accesskey="d" for="refuse_word">禁止要件<span>[D]</span></label></dt>
+<dd><textarea name="refuse_word" id="refuse_word" rows="12" cols="40">{sb_refuse_word}</textarea></dd>
+<dt class="note">禁止要件の説明</dt>
+<dd class="note">コメントで禁止する語句を登録します。「name=」禁止する名前、「mail=」禁止するメールアドレス、「url=」禁止するサイトアドレス、「body=」禁止する本文語句、のように設定します。各設定を改行で区切ってください。</dd>
+<!-- END sb_refuse_word -->
+<dt class="submit">変更</dt>
+<dd class="submit">
+<input type="hidden" name="__mode" value="refuse" />
+<input type="hidden" name="__regi" value="spam" />
+<input type="hidden" name="charset" value="{sb_site_encoding}" />
+<input type="submit" name="spam" value="&gt; 変更する &lt;" class="button" />
+</dd>
+</dl>
+</form>
+<h3>拒否IP設定</h3>
+<form action="{sb_site_cgi}" name="mainform" method="post" enctype="multipart/form-data">
+<dl class="subform">
+<dt><label accesskey="i" for="refuse_ip">IPアドレス<span>[I]</span></label></dt>
+<dd>
+<input type="text" name="refuse_ip" id="refuse_ip" value="" size="40" class="text" />
+<input type="submit" name="addip" value="追加する" class="button" />
+<input type="hidden" name="__mode" value="refuse" />
+<input type="hidden" name="__regi" value="addip" />
+</dd>
+</form>
+<form action="{sb_site_cgi}" method="post" enctype="multipart/form-data" name="listform">
+<table cellpadding="0" cellspacing="1" class="list">
+<tr class="lead">
+<th>禁止IP</th>
+<th>コメント数</th>
+<th><input type="checkbox" name="selectAll" id="selectAll" onclick="switchAll(this);" /></th>
+</tr>
+<!-- BEGIN sb_refuse_list -->
+<tr class="{sb_list_class}">
+<td class="elem">{sb_refuse_ip}</td>
+<td>{sb_refuse_com}</td>
+<td><span><input type="checkbox" name="sel" value="{sb_refuse_ip}" onclick="switchList(this)" /></span></td>
+</tr>
+<!-- END sb_refuse_list -->
+<tr class="tool"><td colspan="4">
+<input type="hidden" name="__mode" value="refuse" />
+<input type="hidden" name="__regi" value="delip" />
+<input type="submit" name="delip" value="選択アドレス削除" class="button" onclick="return confirmDelete();" />
+</td></tr>
+</table></form>

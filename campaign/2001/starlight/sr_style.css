@@ -1,0 +1,51 @@
+/* 見出し */
+h1 {
+  font-style: italic;
+  color: #0066CC
+}
+em.star{
+  font-style: nomal;
+  color: #FFCC00
+}
+
+h2 {
+  border-left: solid 1em;
+  border-bottom: solid 2px;
+  padding: 0.2em;
+  border-left-color:#0066CC;
+  border-bottom-color:#0066CC;
+  width: 80%
+}
+
+h3 {
+  margin:0% 2%;
+}
+
+/* リンク */
+a {
+  text-decoration:none;
+}
+
+/* 段落 */
+p {
+  line-height: 150%;
+  text-align: left
+}
+p.cite {
+  line-height: 150%;
+  text-align: left;
+  font-style: italic;
+  padding-left: 2em;
+}
+
+/* リスト */
+ul {
+  line-height: 150%;
+  list-style-image: url("sr_doc/star.jpg");
+  list-style-type: disc;
+
+}
+li {
+  padding-left: 0.5em
+}
+

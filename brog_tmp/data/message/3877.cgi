@@ -1,0 +1,1 @@
+3877	0	508	1	1273232752	マッサーカー国家元帥	211.14.215.81	+0900		http://issiissiii.blogspot.com/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.4; .NET CLR 1.1.4322)	なるほど　ベーシックロールの汎用性なら、戦隊者系もギャグ満載でできますね。\n\nうーん奥が深いです。					

@@ -1,0 +1,1 @@
+273	0	９月２２日の活動	5	1190818800	0	1	0	0		+0900		0	1	2	1		<strong>９月２２日の活動</strong>（非公式例会）\n\n<strong>一部</strong>\n・<a href="http://www.ku-rpg.org/brog/log/eid274.html">デモンロワイヤル</a>　ＧＭ：赤へる\n・エンゼルギア　ＧＭ：クロ\n・ソードワールド　ＧＭ：左馬\n\n<strong>二部</strong>\n・ウォーハンマー　ＧＭ：Ｓ\n・真・女神転生Ⅱ　誕生篇　ＧＭ：Ｋ						

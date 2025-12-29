@@ -1,0 +1,1 @@
+297	0	１２月８日と９日の活動	5	1197190800	0	1	0	0		+0900		0	1	2	1		<strong>１２月８日の活動</strong>\n\n<strong>１部</strong>\n\n１　ソードワールド（キャンペーン）　ＧＭ　閉じこめの壷\n２　深淵（キャンペーン）　ＧＭ　ＤＡＷＮ\n\n<strong>２部</strong>\n\n１　<a href="http://www.ku-rpg.org/brog/log/eid299.html">アリアンロッド　ＧＭ　乙君</a>\n２　ソードワールド　ＧＭ　みなべ\n３　深淵　ＧＭ　Ｋ						

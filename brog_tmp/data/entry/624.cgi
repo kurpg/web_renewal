@@ -1,1 +1,0 @@
-624	0	５月7日の活動	5	1304780393	0	1	0	0		+0900		0	1	2	1		<strong>５月7日の活動\n\n１部</strong>\n\n１ ベーシック　ＧＭ：岩手\n２ ＰＡＲＡＮＯＩＡ　Troubleshooters　ＧＭ：thormas\n３ <a href="http://www.ku-rpg.org/brog/log/eid623.html" target="_blank">ブルーローズ　ＧＭ：ムスカリア</a>\n４ パラサイトブラッド　ＧＭ：藤林啓一郎\n５ ソード・ワールド2.0　ＧＭ：すたあれいでぃい\n\n\n<strong>２部</strong>\n\n新歓コンパ						

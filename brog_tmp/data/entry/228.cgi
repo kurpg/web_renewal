@@ -1,1 +1,0 @@
-228	0	１２月２３日の活動	5	1166842800	0	1	0	0		+0900		0	2	2	1		<strong>１２月２３日の活動</strong>（非公式例会）\n<strong>一部</strong>\n・扶桑武狭傳　ＧＭ：灰月\n・デモンパラサイト　ＧＭ：Tako\n・ナイトウィザード　ＧＭ：クロ\n\n<strong>二部</strong>\n・ソードワールド　ＧＭ：Ｓ\n・エンゼルギアTRPG　ＧＭ：Ｋ\n・<a href="http://www.ku-rpg.org/brog/log/eid221.html">It Came From the Late Late Late Show</a>　ＧＭ：eiden						

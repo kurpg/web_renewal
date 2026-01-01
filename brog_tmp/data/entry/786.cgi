@@ -1,1 +1,0 @@
-786	0	5月18日の活動	5	1368846000	0	1	0	0		+0900		0	1	2	1		<strong>5月18日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW2.0　GM：みらくる\n2．ALS　GM：akareon\n3．13th Age　GM：K\n4．HERO WARS　GM：初代ボブ\n\n\n<strong>2部</strong>\n1．C of C　GM：スルメイカ\n2．シノビガミ　GM：Y\n3．DX3rd　GM：オグリビー\n4．ARA2E　GM：indefinite\n5．SW完全版　GM：H						

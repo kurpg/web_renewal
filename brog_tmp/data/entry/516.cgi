@@ -1,1 +1,0 @@
-516	0	５月２２日の活動	5	1274540399	0	1	0	0		+0900		0	1	2	1		<strong>５月２２日の活動</strong>\n\n<strong>１部（キャンペーン）</strong>\n\n１　ベーシック　ＧＭ：初代ボブ\n２　ソード・ワールド２.０　ＧＭ：カラン\n３　ギア・アンティーク　ＧＭ：灰月\n\n<strong>２部</strong>\n\n１　ＰＡＲＡＮＯＩＡ ｘｐ　ＧＭ：thormas\n２　ウィッチクエスト　ＧＭ：takashi\n３　<a href="http://www.ku-rpg.org/brog/log/eid517.html">世界樹の迷宮ＳＲＳ</a>　ＧＭ：小荒						

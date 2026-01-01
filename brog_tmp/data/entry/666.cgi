@@ -1,1 +1,0 @@
-666	0	１２月２４日の活動	5	1324655168	0	1	0	0		+0900		0	1	2	1		<strong>１２月２４日の活動\n１部</strong>\n１パラサイトブラッド　ＧＭ：あじゃり\n２<a href=" http://www.ku-rpg.org/brog/log/eid667.html#sequel" target="_blank">ＢＡＳＩＣ</a>　ＧＭ：岩手\n３ＢＡＳＩＣ　ＧＭ：Ｏ						

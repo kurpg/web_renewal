@@ -1,1 +1,0 @@
-117	0	１２月３日、４日の活動	5	1133535600	0	1	0	0		+0900		0	1	1	1		<strong>１２月３日の活動</strong>\n<strong>１部</strong>（後期キャンペーン）\n・クトゥルフ・ダークエイジ　ＧＭ：Ｏ\n・クトゥルフの呼び声　ＧＭ：mono\n・ガープス・ユエル　ＧＭ：藤林啓一郎\n\n<strong>２部</strong>\n・<a href="http://www.ku-rpg.org/blog/log/eid115.html">クトゥルフの呼び声</a>　ＧＭ：alcor\n・ブルーローズ　ＧＭ：Ｓ\n・パラダイス・フリート　ＧＭ：Ⅰ\n\n<strong>１２月４日の活動</strong>（後期キャンペーン）\n・深淵　ＧＭ：Ｔ						

@@ -1,1 +1,0 @@
-97	0	９月２４日の活動	5	1127487600	0	1	0	0		+0900		0	1	1	1		<strong>９月２４日の活動\n\n１部</strong>\n・ウィッチクエスト　ＧＭ：ＤＡＷＮ\n・<a href="http://www.ku-rpg.org/blog/log/eid98.html">クトゥルフの呼び声</a>　ＧＭ：mono\n・ソードワールド　ＧＭ：少年Ｋ\n\n<strong>２部</strong>\n・スペオペヒーローズ　ＧＭ：小荒\n・ソードワールド　ＧＭ：katala\n\n<strong>３部</strong>\n・ウィッチクエスト　ＧＭ：少年Ｋ\n・ソードワ−ルド　ＧＭ：katala						

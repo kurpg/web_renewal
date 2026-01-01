@@ -1,1 +1,0 @@
-710	0	6月30日の活動	5	1341068399	0	1	0	0		+0900		0	1	2	1		<strong>6月30日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW完全版　GM：Si\n2．エンドブレイカー！　GM：怪竜\n3．NW2nd　GM：灰月\n4．DX3rd　GM：藤林啓一郎\n\n<strong>2部</strong>\n<a href="http://www.ku-rpg.org/brog/log/eid711.html#sequel" target="_blank">1．ARA2E　GM：indefinite</a>\n2．大活劇　GM：将軍\n3．真＝女神転生Ⅱ 誕生編　GM：K						

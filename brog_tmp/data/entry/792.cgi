@@ -1,1 +1,0 @@
-792	0	6月15日の活動	5	1371265200	0	1	0	0		+0900		0	1	2	1		<strong>6月15日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW2.0　GM：みらくる\n2．ALS　GM：akareon\n3．13th Age　GM：K\n4．SW完全版　GM：M\n\n<strong>1部＜単発＞</strong>\n1．SW完全版　GM：初代ボブ\n\n<strong>2部</strong>\n1．NW2nd　GM：くず鉄のかかし\n2．ARA2E　GM：S\n3．C of C　GM：Popee\n4．ベーシックRPG　GM：O						

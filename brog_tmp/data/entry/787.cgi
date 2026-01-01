@@ -1,1 +1,0 @@
-787	0	5月25日の活動	5	1369450800	0	1	0	0		+0900		0	1	2	1		<strong>5月25日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW2.0　GM：みらくる\n2．ALS　GM：akareon\n3．13th Age　GM：K\n4．HERO WARS　GM：初代ボブ\n5．ギア・アンティーク　GM：I\n\n<strong>2部</strong>\n1．ベーシックRPG　GM：O\n2．NW2nd　GM：クロ\n3．C of C　GM：S\n4．戦国霊異伝　GM：H\n5．C of C　GM：岩手						

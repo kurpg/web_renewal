@@ -1,1 +1,0 @@
-27	0	３月５日の活動日誌	5	1109948400	0	1	0	0		+0900		0	1	1	1		<strong>１部</strong>\n・天羅万象　ＧＭ：油蝉\n<a href="http://www.ku-rpg.org/blog/sb.cgi?eid=31">・ブルーローズ　ＧＭ：牛殺し</a>\n\n<strong>２部</strong>\n<a href="http://www.ku-rpg.org/blog/sb.cgi?eid=33">・クトゥルフの呼び声　ＧＭ：ｍｏｎｏ</a>\n・三国志演技　ＧＭ：将軍						

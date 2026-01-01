@@ -1,1 +1,0 @@
-664	0	１２月１７日の活動	5	1324100604	0	1	0	0		+0900		0	1	2	1		<strong>１２月１７日の活動</strong>\n<strong>１部</strong>\n１ パイレーツ　ＧＭ：初代ボブ　\n２ アリアンロッド　ＧＭ：Jackson\n３ 大活劇　ＧＭ：Bluegrass\n\n<strong>２部</strong>\n１ 永い後日談のネクロニカ　ＧＭ：Si\n２ アリアンロッド　ＧＭ：meise\n３ パイレーツ！　ＧＭ：alcor						

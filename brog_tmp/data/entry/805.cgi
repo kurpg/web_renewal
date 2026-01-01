@@ -1,1 +1,0 @@
-805	0	9月14日の活動	5	1379127600	0	1	0	0		+0900		0	1	2	1		<strong>9月14日の活動\n\n＜非公式例会＞\n1部</strong>\n1．SW2.0　GM：黒和\n2．ARA2E　GM：羊羽\n3．SW2.0　GM：スルメイカ\n\n<strong>2部</strong>\n1．Dungeon World　GM：K\n2．へろへろファンタジー　GM：H\n3．SW完全版/SW2.0　GM：W\n4．シノビガミ　GM：O						

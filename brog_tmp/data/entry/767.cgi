@@ -1,1 +1,0 @@
-767	0	2月26日の活動	5	1361890799	0	1	0	0		+0900		0	1	2	1		<strong>2月26日の活動</strong>\n\n<strong>虎の穴\n1部</strong>\n1．戦国霊異伝　GM：初代ボブ\n<a href="http://www.ku-rpg.org/brog/log/eid769.html" target="_blank">2．アルシャードセイヴァー　GM：灰月</a>						

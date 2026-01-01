@@ -1,1 +1,0 @@
-495	0	２月２３日の活動	5	1266937199	0	1	0	0		+0900		0	1	2	1		<strong>２月２３日の活動</strong>\n\n<strong>１部</strong>\n\n１　ソード・ワールド２.０　ＧＭ：meisu\n２　ベーシック　ＧＭ：鳥賊様\n３　<a href="http://www.ku-rpg.org/brog/log/eid490.html">ＴＯＲＧ</a>　ＧＭ：小荒						

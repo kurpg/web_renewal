@@ -1,1 +1,0 @@
-833	0	2月1日の活動	5	1391223600	0	1	0	0		+0900		0	1	2	1		<strong>2月1日の活動\n\n＜非公式例会＞\n1部</strong>\n1．SW2.0　GM：パイの実\n2．BASIC　GM：ポテト男\n3．ベルファール魔法学園　GM：S\n\n<strong>2部</strong>\n1．The Esoterrorists　GM：K\n2．グランクレスト　GM：O						

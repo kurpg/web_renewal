@@ -1,1 +1,0 @@
-799	0	7月27日の活動	5	1374894000	0	1	0	0		+0900		0	1	2	1		<strong>7月27日の活動\n\n＜非公式例会＞\n1部</strong>\n1．ARA2E　GM：Jackson\n2．Ａの魔方陣　GM：W\n3．シノビガミ　GM：T\n\n<strong>2部</strong>\n1．SW2.0　GM：O\n2．三国志演義　GM：O\n\n<strong>2部＜キャンペーン＞</strong>\n1．HERO WARS　GM：初代ボブ						

@@ -1,1 +1,0 @@
-703	0	6月2日の活動	5	1338649199	0	1	1	0		+0900		0	1	2	1		<strong>6月2日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW完全版　GM：Si\n2．エンドブレイカー！　GM：怪竜\n3．ARA2E　GM：meisu\n4．DX3rd　GM：藤林啓一郎\n\n<strong>2部</strong>\n1．<a href="http://www.ku-rpg.org/brog/log/eid704.html#sequel" target="_blank">SW2.0　GM：あじゃり</a>\n2．ARA2E　GM：mouser\n3．番長学園!!　GM：I\n4．SW完全版　GM：K						

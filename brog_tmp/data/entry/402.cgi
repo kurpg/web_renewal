@@ -1,1 +1,0 @@
-402	0	１月２４日の活動	5	1232809199	0	1	0	0		+0900		0	1	2	1		<strong>１月２４日の活動</strong>\n\n<strong>１部</strong>\n\n１　パイレーツ　ＧＭ：ｍｅｉｓｕ　\n２　<a href="http://www.ku-rpg.org/brog/log/eid404.html">アリアンロッド　ＧＭ：Ｊａｃｋｓｏｎ</a>\n３　ソードワールド１　ＧＭ：すたあれいでぃい　						

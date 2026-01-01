@@ -1,1 +1,0 @@
-705	0	6月9日の活動	5	1339253999	0	1	1	0		+0900		0	1	2	1		<strong>6月9日の活動\n\n1部</strong>\n1．ARA2E　GM：羊羽\n2．C of C　GM：スルメイカ\n3．ARA　GM：Jackson\n\n<strong>2部</strong>\n<a href="http://www.ku-rpg.org/brog/log/eid708.html#sequel" target="_blank">1．JAMES BOND 007　GM：初代ボブ</a>\n2．エンドブレイカー！　GM：おあしす\n3．C of C　GM：茨之介						

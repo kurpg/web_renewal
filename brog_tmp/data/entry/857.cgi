@@ -1,1 +1,0 @@
-857	0	6月21日の活動	5	1403319600	0	1	0	0		+0900		0	1	2	1		<strong>6月21日の活動</strong>\n\n<strong>公式例会\n1部</strong>\nキャンペーン4話\n1.basic　GM:白額虎\n2.CofC　GM:crowbar\n3.SW2.0　GM:スズキックス\n4.トーチベアラー　GM:K\n5.グランクレスト　GM:藤林啓一郎\n6.アルシャードセイヴァー　GM:カラン\n\n<strong>2部</strong>\n1.basic　GM:ぼんた\n2.SW2.0　GM:パイの実\n3.メガトラベラー　GM:スルメイカ\n4.ARA2E　GM:羊羽						

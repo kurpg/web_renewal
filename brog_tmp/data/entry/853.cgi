@@ -1,1 +1,0 @@
-853	0	5月31日の活動	5	1401505200	0	1	0	0		+0900		0	1	2	1		<strong>5月31日の活動</strong>\n\n<strong>公式例会\n1部</strong>\nキャンペーン２話\n1.basic　GM:白額虎\n2.CofC　GM:crowbar\n3.SW2.0　GM:スズキックス\n4.トーチベアラー　GM:K\n5.グランクレスト　GM:藤林啓一郎\n6.アルシャードセイヴァー　GM:カラン\n\n<strong>2部</strong>\n1．パイレーツ!　GM:みらくる \n2．SW完全版　GM：ポテト男\n3.シノビガミ　GM:nece3\n4.CofC　GM:初代ボブ\n5.ヴァイオレンスTM　GM:キノ						

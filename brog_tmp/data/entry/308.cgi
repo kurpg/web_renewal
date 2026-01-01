@@ -1,1 +1,0 @@
-308	0	１月１２日の活動	5	1200149999	0	1	1	0		+0900		0	1	2	1		<strong>１月１２日の活動</strong>\n\n<strong>１部</strong>\n\n１　ダブルクロス２　ＧＭ　乙君\n <a href="http://www.ku-rpg.org/brog/log/eid309.html">２　放課後怪奇クラブ</a>　ＧＭ　鳥賊様\n３　三国志演義　ＧＭ　赤へる						

@@ -1,1 +1,0 @@
-570	0	１１月２０日の活動	5	1290265199	0	1	0	0		+0900		0	1	2	1		<strong>１１月２０日の活動</strong>\n\n<strong>１部</strong>\n\n１　<a href="http://www.ku-rpg.org/brog/log/eid568.html#sequel" target="_blank">ゲヘナ・アナスタシス　ＧＭ：クロ</a>\n２　アリアンロッド　ＧＭ：小荒\n\n<strong>２部</strong>\n\n１　戦国霊異伝　ＧＭ：Ｈ						

@@ -1,1 +1,0 @@
-791	0	6月8日の活動	5	1370660400	0	1	0	0		+0900		0	1	2	1		<strong>6月8日の活動\n\n＜拡大例会＞\n1部</strong>\n1．C of C　GM：T\n2．ARA2E　GM：Jackson\n3．ベーシックRPG　GM：カラン\n4．SW完全版　GM：S\n\n<strong>2部</strong>\n1．SW2.0　GM：N\n2．Rune Quest　GM：O\n3．C of C　GM：岩手\n4．ブルーローズネクサス　GM：うしはんまぁ						

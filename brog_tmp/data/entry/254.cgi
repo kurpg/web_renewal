@@ -1,1 +1,0 @@
-254	0	５月２６日の活動	5	1180105200	0	1	0	0		+0900		0	1	2	1		<strong>５月２６日の活動\n一部</strong>（キャンペーン）\n・天羅ＷＡＲ　ＧＭ：赤へる\n・クトゥルフの呼び声　ＧＭ：eiden\n・ウィッチクエスト　ＧＭ：みなべ\n\n<strong>二部</strong>\n・ナイトウィザード　ＧＭ：Yang-sie\n・<a href="http://www.ku-rpg.org/brog/log/eid251.html">パラノイアＸＰ</a>　ＧＭ：alcor\n・IT CAME FROM THE LATE,LATE,LATE SHOW　ＧＭ：Ｉ						

@@ -1,1 +1,0 @@
-449	0	９月５日の活動	5	1252162799	0	1	0	0		+0900		0	1	2	1		<strong><strong>９月５日の活動\n\n１部\n</strong></strong>\n１　ソードワールド２　ＧＭ：Ｍｏｕｓｅｒ\n２　<a href="http://www.ku-rpg.org/brog/log/eid450.html">クイーンズブレイド</a>　ＧＭ：キノ\n３　Jaws of the Six Serpents　ＧＭ：Ｋ\n\n<strong>２部</strong>\n\n１　アリアンロッド　ＧＭ：Ｈ\n２　ソードワールド２　ＧＭ：Ｍ\n３　Ａの魔法陣　ＧＭ：ｋａｔａｌａ						

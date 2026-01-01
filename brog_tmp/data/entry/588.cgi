@@ -1,1 +1,0 @@
-588	0	１月２２日の活動	5	1295708399	0	1	0	0		+0900		0	1	2	1		<strong>１月２２日の活動</strong>\n\n<strong>１部</strong>\n\n１ ベルファール魔法学園　ＧＭ：takashi\n２ <a href="http://www.ku-rpg.org/brog/log/eid587.html#sequel" target="_blank">スペオペ・ヒーローズ</a>　ＧＭ：スルメイカ\n３ Shadow, Sword & Spell　ＧＭ：Ｋ						

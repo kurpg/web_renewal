@@ -1,9 +1,0 @@
-type	管理用
-name	データ移行
-text	外部データ読み込みとデータ書出し
-author	takkyun
-detail	http://serenebach.net/
-# resources
-resource	parts_import	件の記事を取り込みました。
-resource	error_import_cond	取り込まれる新規ユーザーに対してのパスワードが設定されていません。
-resource	error_no_data	読み込むデータがありません。

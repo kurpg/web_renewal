@@ -1,1 +1,0 @@
-364	0	８月９日の活動	5	1218293999	0	1	0	0		+0900		0	1	2	1		<strong>８月９日の活動</strong>\n\n<strong>１部</strong>\n\n１　<a href="http://www.ku-rpg.org/brog/log/eid365.html">ブルーフォレスト物語　ＧＭ　Ｂｌｕｅｇｒａｓｓ</a>\n２　深淵２　ＧＭ　藤林啓一郎						

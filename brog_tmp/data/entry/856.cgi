@@ -1,1 +1,0 @@
-856	0	6月14日の活動	5	1402714800	0	1	0	0		+0900		0	1	2	1		<strong>6月14日の活動</strong>\n\n<strong>拡大例会\n1部</strong>\n\n1.スターウォーズ　GM:I\n2.NW2nd　GM:黒和\n3.SW完全版　GM:ポテト男\n4.SW2.0　GM:オグリビー\n5.ゴーストバスターズ　GM:S\n6.GGwK　GM:I\n\n<strong>2部</strong>\n1.神我狩　GM:Si\n2.シノビガミ　GM:O\n3.大活劇　GM:H\n4.カードランカー　GM:みらくる\n5.CofC　GM:破損						

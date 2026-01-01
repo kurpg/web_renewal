@@ -1,1 +1,0 @@
-506	0	４月１７日の活動	5	1271516399	0	1	0	0		+0900		0	1	2	1		<strong>４月１７日の活動</strong>\n\n<strong>１部</strong>\n\n１　ゲヘナＡｎ　ＧＭ：ムスカリア\n２　アリアンロッド　ＧＭ：キノ\n３　アリアンロッド　ＧＭ：鳥賊様\n４　ダブルクロス３ｒｄ　ＧＭ：灰月\n５　天下繚乱　ＧＭ：藤林啓一郎\n\n<strong>２部</strong>\n\n１　<a href="http://www.ku-rpg.org/brog/log/eid508.html" target="_blank">ベーシック</a>　ＧＭ：初代ボブ\n２　クトゥルフの呼び声　ＧＭ：スルメイカ\n３　異界戦記カオスフレア　ＧＭ：katala\n４　大活劇　ＧＭ：Ｉ						

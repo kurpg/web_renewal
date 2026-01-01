@@ -1,1 +1,0 @@
-143	0	２月２８日の活動	5	1141052400	0	1	0	0		+0900		0	1	1	1		<strong>２月２８日の活動</strong>\n\n一部\n・ビーストバインド　旧版　ＧＭ：Ｔ\n・<a href="http://www.ku-rpg.org/blog/log/eid147.html" target="_blank">ＳＷ</a>　ＧＭ：Ｗ\n・エンゼルギア　ＧＭ：Ｋ						

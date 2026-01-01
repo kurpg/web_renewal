@@ -1,1 +1,0 @@
-264	0	７月７日	5	1183734000	0	1	0	0		+0900		0	1	2	1		<strong>７月７日の活動</strong>\n\n<strong>一部</strong>（前期キャンペーン）\n・天羅ＷＡＲ　ＧＭ：赤へる\n・クトゥルフの呼び声　ＧＭ：eiden\n・ゲヘナAn　ＧＭ：牛殺士\n\n<strong>２部</strong>\n・ＴＯＲＧ　ＧＭ：小荒\n・<a href="http://www.ku-rpg.org/brog/log/eid260.html">天羅ＷＡＲ</a>　ＧＭ：ＤＡＷＮ\n・Vampire:The Masquerade　ＧＭ：Ｋ						

@@ -1,1 +1,0 @@
-843	0	3月1日の活動	5	1393642800	0	1	0	0		+0900		0	1	2	1		<strong>3月1日の活動\n\n1部</strong>\n1．BASIC　GM：岩手\n2．エリュシオン　GM：灰月\n3．神我狩　GM：怪竜\n4．BASIC　GM：N\n5．SW2.0　GM：黒和\n6．パイレーツ！　WILD WEST　GM：初代ボブ\n\n<strong>2部</strong>\n追い出しコンパが楽しく行われました。						

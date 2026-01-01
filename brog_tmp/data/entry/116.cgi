@@ -1,1 +1,0 @@
-116	0	１１月２６日、２７日の活動	5	1132930800	0	1	0	0		+0900		0	1	1	1		<strong>１１月２６日の活動</strong>\n<strong>１部</strong>\n・ソードワールド　ＧＭ：クロ\n・ソードワールド　ＧＭ：小荒\n・パイレーツ　ＧＭ：蟻人\n\n<strong>２部</strong>\n・<a href="http://www.ku-rpg.org/blog/log/eid118.html">ソードワールド</a>　ＧＭ：みなべ\n\n<strong>１１月２７日の活動</strong>（後期キャンペーン）\n・深淵　ＧＭ：Ｔ						

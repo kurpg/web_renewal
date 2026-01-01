@@ -1,1 +1,0 @@
-154	0	４月８日の活動（新歓体験セッション）	5	1144422000	0	1	0	0		+0900		0	1	1	1		<strong>一部</strong>\n・ＳＷ（共通シナリオ）　ＧＭ：みなべ\n　　　　　　　　　　　　　　　閉じ込めの壷\n　　　　　　　　　　　　　　　少年Ｋ\n・<a href="http://www.ku-rpg.org/blog/log/eid151.html">ギア・アンティーク</a>　ＧＭ：katala\n\n<strong>２部</strong>\n・装甲騎兵ボトムズ　ＧＭ：クロ\n・<a href="http://www.ku-rpg.org/blog/log/eid158.html">アリアンロッド</a>　ＧＭ：／ウサギ\n・放課後怪奇クラブ　ＧＭ：mono\n・パイレーツ！　ＧＭ：蟻人						

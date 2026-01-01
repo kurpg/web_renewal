@@ -1,1 +1,0 @@
-629	0	６月１１日の活動	5	1307718148	0	1	0	0		+0900		0	1	2	1		<strong>６月１１日の活動</strong>\n\n<strong>１部</strong>(キャンペーンは休み)\n\n１ アリアンロッド ＧＭ:thormas\n２ ソード・ワールド2.0 ＧＭ:ムスカリア\n３ クトゥルフの呼び声 ＧＭ:Jackson\n４ ゴーストバスターズ ＧＭ:S\n\n<strong>２部</strong>\n１ パラサイトブラッド ＧＭ:カラン\n２ アリアンロッド ＧＭ:Meisu\n３ Apocalypse World ＧＭ:K						

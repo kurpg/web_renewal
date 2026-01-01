@@ -6,8 +6,10 @@ body {
 	color: #336;
 	background-color: #eee;
 	margin: 0.5em;
-	font-family: sans-serif;
+	font-family: 'Noto Sans JP' , sans-serif;
 	font-weight: 500;
+	line-height: 1.8;
+	font-size: 16px;
 }
 body::after {
 	clear: both;
@@ -31,7 +33,36 @@ a:visited { color:#63c; }
 a:not(.banner):hover { background-color:#ddf; }
 
 header {
-	margin: 1em;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+header img {
+  max-width: 500px;
+  width: 80%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+header p {
+  margin: 6px 0;
+  font-size: 1.1rem;
+  color: #445;
+}
+
+header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 10px 0 20px;
+  color: #223;
+}
+
+header .right {
+  text-align: right;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 10px;
 }
 hr {
 	margin: 1.5em;
@@ -48,9 +79,20 @@ main {
 	padding:0 calc(25% - 5em);
 	box-sizing: border-box;
 }
-#side+main {
-	padding:1em 20%;
-	padding:1em calc(15% - 5em);
+#side {
+  width: 240px;
+  height: 100vh;
+  border: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: #f7f7f7;
+  box-shadow: 2px 0 8px rgba(0,0,0,0.1);
+  overflow-y: auto;
+}
+main {
+  margin-left: 240px;
+  padding: 20px;
 }
 input {
 	height: 1.5em;
@@ -100,19 +142,27 @@ input {
 .archive td:nth-last-child(2) { text-align: left; }
 
 p {
-	margin: 0.5em 0;
+	margin: 0.8em 0;
 }
-iframe {
-	display: block;
-	border: none;
-	width: 100%;
-	height: 6em;
+main iframe {
+  width: 100%;
+  height: 320px;
+  border: none;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  margin: 1rem 0;
+}
+main iframe body {
+  font-size: 1rem;
+  line-height: 1.7;
 }
 h3 {
-	background-color: #cdf;
-	text-align: center;
-	padding: 0.2em 0;
-	margin: 0;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 6px;
+  margin-top: 40px;
+  font-size: 1.4rem;
+  font-weight: 700;
 }
 h3.new {
 	color: white;
@@ -122,15 +172,26 @@ h4 {
 	margin: 0.2em 0;
 }
 .table {
-	display: table;
-	width: 100%;
-	margin: 0.6em 0;
+  background: #fff;
+  padding: 1.2rem 1.5rem;
+  border-radius: 10px;
+  margin: 1.2rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
-.table>h4 {
-	display: table-cell;
-	text-align: right;
-	vertical-align: middle;
-	width: 25%;
+.table h4 {
+  margin: 0 0 0.4rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.table:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+}
+.table p {
+  margin: 0;
+  color: #445;
+  line-height: 1.6;
 }
 .table>* {
 	margin: 0 0.5em;
@@ -172,4 +233,73 @@ h5::after { content: " ■" }
 		float: right;
 		width: 75%;
 	}
+}
+/* ハンバーガーアイコン */
+#hamburger {
+  display: none;
+  width: 30px;
+  height: 22px;
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  z-index: 1000;
+  cursor: pointer;
+}
+
+#hamburger span {
+  display: block;
+  height: 4px;
+  background: #333;
+  margin-bottom: 5px;
+  border-radius: 2px;
+}
+
+/* スマホ用レイアウト */
+@media (max-width: 768px) {
+  #side {
+    display: none;
+  }
+
+  #hamburger {
+    display: block;
+  }
+
+  #side.open {
+    display: block;
+    position: fixed;
+    width: 70%;
+    height: 100vh;
+    background: #fff;
+    z-index: 999;
+    box-shadow: 2px 0 8px rgba(0,0,0,0.2);
+  }
+
+  main {
+    margin-left: 0;
+  }
+}
+h1, h2, h3, h4 {
+  line-height: 1.4;
+}
+/* h2：大見出し（今後使う場合に備えて） */
+h2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin: 50px 0 20px;
+  color: #223;
+  border-left: 6px solid #5a7bd8;
+  padding-left: 12px;
+}
+
+/* h4：カード内の小見出し（.table 内） */
+h4 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+  color: #223;
+}
+/* 画像をレスポンシブに */
+img {
+  max-width: 100%;
+  height: auto;
 }

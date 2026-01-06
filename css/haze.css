@@ -147,7 +147,7 @@ p {
 main iframe {
   width: 100%;
   height: 320px;
-  border: 3px solod #d8b400;
+  border: 3px solod #ffcc66;
   border-radius: 8px;
   background: #ffffff;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
@@ -210,8 +210,9 @@ nav {
 	padding: 1em 0;
 }
 h5 {
-  color: #000;
-	background-color: rgb(255, 179, 0);
+  color: #000000;
+  font-size: large;
+	background-color: #ffcc66;
 	margin: 0.5em;
 	padding: 0.5em;
 }

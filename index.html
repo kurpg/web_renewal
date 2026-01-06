@@ -6,18 +6,25 @@
 	<title>京都大学RPG研究会 - 公式ウェブサイト -</title>
 	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="/css/haze.css">
-	<link rel=“icon” href=“/favicon.ico” type=“image/x-icon”>
+	<!-- Favicon -->
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon.png" />
+	<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png" />
+	<meta name="msapplication-TileImage" content="/mstile-150x150.png" />
+	<link rel="manifest" href="/manifest.json" />
 </head>
 <body>
 <div id="hamburger">
-  <span></span>
-  <span></span>
-  <span></span>
+	<span></span>
+	<span></span>
+	<span></span>
 </div>
 <iframe id="side" src="/menu.html"></iframe>
 <main>
 	<header style="padding-top: 40px;">
-		<img src="image/ku-rpg_logo.png" style="display: block; margin: 0 auto;" width="1500px">
+		<a href="/index.html">
+		<img src="image/ku-rpg_logo.png" style="display: block; margin: 0 auto;">
+		</a>
 		<p class="right">Last Update 2025/04/22<br>
 		<a href="/whatsnew.html">更新履歴</a></p>
 	</header>
@@ -34,7 +41,7 @@
 	</div>
 	<div class="table">
 		<h4><a href="/shinkan/2025.html">新歓活動</a></h4>
-		<p><strong>2025年度の新歓活動です。</strong></p>
+		<p>2025年度の新歓活動です。</p>
 	</div>
 	<div class="table">
 		<h4><a href="/plan.html">活動予定</a></h4>
@@ -45,49 +52,27 @@
 		<h4><a href="/brog/index.html" target="_blank">ブログ</a></h4>
 		<p>日々の活動を記録したブログです。セッションの感想やミニレポートもあります。</p>
 	</div>
-	<div class="table">
-		<h4><a href="/report/index.html">セッションレポート</a></h4>
-		<p>単発セッションを簡単にまとめたレポートです。</p>
-	</div>
-	<div class="table">
-		<h4><a href="/campaign/index.html">キャンペーンレポート</a></h4>
-		<p>キャンペーンを簡単にまとめたレポートです。</p>
-	</div>
 		<!--
 		<a href="archive/2024.html">活動報告</a>
-			  2024年度のシナリオで使われたシステム集計があります。
+			2024年度のシナリオで使われたシステム集計があります。
 		-->
 	<div class="table">
 		<h4><a href="/archive/index.html">活動報告</a></h4>
 		<p>RPG研の活動の集計報告です。</p>
 	</div>
-	<h3>TRPG</h3>
-	<div class="table">
-		<h4>RPG研究</h4>
-		<p>RPGの技術論などです。(工事中)</p>
-	</div>
-	<div class="table">
-		<h4><a href="/system/index.html">システム紹介</a></h4>
-		<p>TRPGのシステムの簡単な紹介があります。</p>
-	</div>
-	<div class="table">
-		<h4><a href="/column/index.html">雑文</a></h4>
-		<p>会員・OBが書いたRPGに関する様々な文章です。</p>
-	</div>
 	<h3>その他</h3>
 	<div class="table">
-		<h4><a href="/link/index.html">リンク</a></h4>
-		<p>会員やOBのホームページ、TRPG関連のホームページへのリンクです。</p>
+		<h4><a href="/archive.html">アーカイブ</a></h4>
+		<p>旧ホームページに記されていた内容です。</p>
 	</div>
-	<div class="center"><a class="banner" href="/image/banner/index.html"><img src="/image/banner/rpglogo1.gif" alt="banner"></a></div>
-	<footer><p><a href="/about.html">このページについて</a></p>
+	<footer><p><a href="/about.html">このサイトについて</a></p>
 	<p>Copyright (C) 2001 京都大学RPG研究会<br>Since 2001/03/01</p></footer>
 </main>
 </body>
 <script>
 document.getElementById('hamburger').onclick = function()
 {
-  document.getElementById('side').classList.toggle('open');
+	document.getElementById('side').classList.toggle('open');
 };
 </script>
 </html>

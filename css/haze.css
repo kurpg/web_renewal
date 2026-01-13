@@ -3,7 +3,7 @@
 /*   theme::haze, by bacon, 2018   */
 
 body {
-	color: #000;
+	color: #000000;
 	background-color: #ffcc6640;
 	margin: 0.5em;
 	font-family: 'Noto Sans JP' , sans-serif;
@@ -28,9 +28,9 @@ a[href$=".pdf"]::after {
 	font-size: small;
 	color: silver;
 }
+
 a:link { color:#33c; }
 a:visited { color:#63c; }
-a:not(.banner):hover { background-color:#ddf; }
 
 header {
   text-align: center;
@@ -284,11 +284,11 @@ h1, h2, h3, h4 {
 }
 /* h2：大見出し（今後使う場合に備えて） */
 h2 {
-  font-size: 1.8rem;
+  font-size: 2.2rem;
   font-weight: 700;
   margin: 50px 0 20px;
-  color: #223;
-  border-left: 6px solid #5a7bd8;
+  color: #000000;
+  border-left: 6px solid #ff1800;
   padding-left: 12px;
 }
 
@@ -297,7 +297,7 @@ h4 {
   font-size: 1.2rem;
   font-weight: 700;
   margin: 0 0 0.4rem;
-  color: #223;
+  color: #000000;
 }
 /* 画像をレスポンシブに */
 img {

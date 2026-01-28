@@ -49,7 +49,7 @@ td {
 	height: 50px;
 	}
 
-.pageHeader img 
+.pageHeader img
 	{
 	margin-left: 0px;
 	margin-top: 0px;
@@ -57,10 +57,10 @@ td {
 
 .footerContainer
 	{
-	position: absolute; 
+	position: absolute;
 	visibility:hidden;
 	bottom: 0px;
-	height: 40px; 
+	height: 40px;
 	width: 100%;
 	border-top: solid 1px #6E89DD;
 	background-color: #8EA5EC;
@@ -78,7 +78,7 @@ td {
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
-	/*	
+	/*
 	border-left: solid 1px #dddddd;
 	border-right: solid 1px #dddddd;
 	*/
@@ -160,24 +160,24 @@ form
 	display: none;
 	}
 
-.buttonsContainer .commonButton button 
+.buttonsContainer .commonButton button
 	{
 	width: 91px;
 	height: 21px;
 	text-align: center;
 	}
 
-.buttonsContainer .commonButton button 
+.buttonsContainer .commonButton button
 	{
 	white-space: nowrap;
 	}
 
-.buttonsContainer .commonButton 
+.buttonsContainer .commonButton
 	{
 	margin-left: 14px;
 	}
 
-.buttonsContainer .commonButton span,
+.buttonsContainer .commonButton span
 	{
 	background-position: 0 1px;
 	background-repeat: no-repeat;
@@ -190,26 +190,26 @@ form
 	padding-bottom: 4px;
 	}
 
-.commonButton 
+.commonButton
 	{
 	display: inline;
 	}
 
-.commonButton button 
+.commonButton button
 	{
 	background-image: url('../img/glyph/btn_bg.gif');
 	border: 0 solid white;
 	background-repeat: no-repeat;
 	}
 
-.commonButton button[disabled] 
+.commonButton button[disabled]
 	{
-	background-image: url('../img/glyph/btn_bg-disabled.gif'); 
+	background-image: url('../img/glyph/btn_bg-disabled.gif');
 	color: #999999;
-	}  
+	}
 
 .commonButton button,
-.commonButton 
+.commonButton
 	{
 	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
@@ -217,7 +217,7 @@ form
 	background-color: transparent;
 	}
 
-#bid-ok button 
+#bid-ok button
 	{
 	background-image: url('../img/glyph/btn_ok_bg.gif');
 	padding-left: 8px;
@@ -239,7 +239,7 @@ form
 	color: #555555;
 	}
 
-legend 
+legend
 	{
 	color: #0046D5;
 	margin-bottom: 5px;
@@ -249,7 +249,7 @@ legend
 	padding-bottom: 3px;
 	}
 
-.testRelults 
+.testRelults
 	{
 	height: 26px;
 	margin-top: 5px;
@@ -320,7 +320,7 @@ legend
 	text-decoration: underline;
 	}
 
-.pathBar 
+.pathBar
 	{
 	color: #444444;
 	padding: 5px;
@@ -328,7 +328,7 @@ legend
 	}
 
 .pathBar a:link,
-.pathBar a:visited 
+.pathBar a:visited
 	{
 	color: #444444;
 	}
@@ -508,8 +508,7 @@ font-size: 11px;
 color: #fff;
 font-weight: bold;
 }
-.dBoxHeaderArea .misc {
-}
+
 .dBoxFooterLayout {
 height: 27px;
 overflow: hidden;

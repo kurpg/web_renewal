@@ -33,7 +33,6 @@ td > #screenTabs
 	display: block;
 	background:url("../img/icons/tabs/right.gif") no-repeat right top;
 	padding:5px 9px 4px 4px;
-	vertical-align: baseline;
 	text-decoration: none;
 	color: #000000;
 	width:.1em;

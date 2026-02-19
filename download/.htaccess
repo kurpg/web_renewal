@@ -1,0 +1,4 @@
+AuthUserfile "/home/users/2/chu.jp-ku-rpg/web/download/.htpasswd"
+AuthName "kurpg"
+AuthType Basic
+Require valid-user

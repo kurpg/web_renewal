@@ -8,3 +8,8 @@ AuthUserfile "/home/users/2/chu.jp-ku-rpg/web/brog/.htpasswd"
 AuthName "kurpg"
 AuthType Basic
 Require valid-user
+
+<FilesMatch "\.cgi$">
+    Satisfy Any
+    Allow from all
+</FilesMatch>

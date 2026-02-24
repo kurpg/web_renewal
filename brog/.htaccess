@@ -10,6 +10,5 @@ AuthType Basic
 Require valid-user
 
 <FilesMatch "\.cgi$">
-    Satisfy Any
-    Allow from all
+    Require all granted
 </FilesMatch>

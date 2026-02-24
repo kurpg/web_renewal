@@ -3,12 +3,3 @@ AddType text/html cgi
 AddHandler cgi-script cgi
 AddHandler cgi-script pl
 AddHandler cgi-script pm
-
-AuthUserfile "/home/users/2/chu.jp-ku-rpg/web/brog/.htpasswd"
-AuthName "kurpg"
-AuthType Basic
-Require valid-user
-
-<FilesMatch "\.cgi$">
-    Require all granted
-</FilesMatch>

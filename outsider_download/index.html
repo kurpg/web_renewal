@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>京都大学RPG研究会 ダウンロード</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="/css/haze.css">
+	<!-- Favicon -->
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon.png" />
+	<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png" />
+	<meta name="msapplication-TileImage" content="/mstile-150x150.png" />
+	<link rel="manifest" href="/manifest.json" />
+</head>
+<body>
+<div id="hamburger">
+	<span></span>
+	<span></span>
+	<span></span>
+</div>
+<iframe id="side" src="/menu.html"></iframe>
+<main>
+	<script src="/js/budoux.js"></script>
+	<budoux-ja>
+    <header style="padding-top: 40px;">
+		<a href="/index.html">
+		<img src="/image/ku-rpg_logo.png" style="display: block; margin: 0 auto;">
+		</a>
+		<h1>ダウンロード</h1>
+	</header>
+	<a href="./賽の目が描いたボクらのミライ.html"><div class="table">
+		<h4>賽の目が描いたボクらのミライ</h4>
+		<p>
+            2026年度京都大学11月祭で頒布したシナリオ集です。<br>
+            多種多様なシステムで遊べる全8本のシナリオが収録されています。
+        </p>
+	</div></a>
+<script>
+document.getElementById('hamburger').onclick = function()
+{
+	document.getElementById('side').classList.toggle('open');
+};
+</script>
+</html>

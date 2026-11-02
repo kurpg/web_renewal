@@ -124,16 +124,19 @@ input {
 	margin: 1em auto;
 }
 .list th {
-	text-align: center;
-	min-width: 5em;
-	border: solid 1px #336;
-	background-color: #ddd;
-	padding: 0.1em 0.2em;
+  text-align: center;
+  min-width: 5em;
+  border: solid 1px #dda93b;
+  background-color: #ffcc66;
+  padding: 0.1em 0.2em;
 }
 .list td {
-	border: solid 1px #336;
-	background-color: #fff;
-	padding: 0.1em 0.2em;
+  border: solid 1px #e6c885;
+  background-color: #fffdf7;
+  padding: 0.1em 0.2em;
+}
+.list tr:nth-child(even) td {
+  background-color: #fff7e6;
 }
 
 .archive { max-width: 46em; }

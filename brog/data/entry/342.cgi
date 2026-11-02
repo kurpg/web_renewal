@@ -1,1 +1,0 @@
-342	0	５月３日の活動	5	1209826799	0	1	0	0		+0900		0	1	2	1		<strong>５月３日の活動</strong>（非公式例会）\n\n<strong>１部</strong>\n\n１　ソードワールド１　ＧＭ　キノ\n２　システムなし　ＧＭ　蟻人\n３　<a href="http://www.ku-rpg.org/brog/log/eid345.html">深淵２　ＧＭ　Ｋ</a>\n\n<strong>２部</strong>\n\n１　パラノイアＸＰ　ＧＭ　ａｌｃｏｒ\n２　真女神転生Ⅱ誕生編　ＧＭ　Ｋ						

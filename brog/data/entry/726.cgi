@@ -1,1 +1,0 @@
-726	0	10月6日の活動	5	1349535599	0	1	0	0		+0900		0	1	2	1		<strong>10月6日の活動\n\nOF1日目\n統一シナリオ</strong>\n1．NW2nd　GM：Si,羊羽,lunan\n\n<strong>裏卓</strong>\n1．SW　GM：初代ボブ\n2．<a href="http://www.ku-rpg.org/brog/log/eid728.html#sequel" target="_blank">Dungeon World　GM：K</a>						

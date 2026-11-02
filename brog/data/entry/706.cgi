@@ -1,1 +1,0 @@
-706	0	6月16日の活動	5	1339858799	0	1	0	0		+0900		0	1	2	1		<strong>6月16日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW完全版　GM：Si\n2．エンドブレイカー！　GM：怪竜\n3．ARA2E　GM：meisu\n4．DX3rd　GM：藤林啓一郎\n\n<strong>2部</strong>\n<a href="http://www.ku-rpg.org/brog/log/eid709.html" target="_blank">1．SW2.0　GM：lunan</a>\n2．C of C　GM：岩手\n3．C of C　GM：N						

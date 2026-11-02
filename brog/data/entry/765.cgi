@@ -1,1 +1,0 @@
-765	0	2月23日の活動	5	1361631599	0	1	0	0		+0900		0	1	2	1		<strong>2月23日の活動</strong>\n\n<strong>虎の穴\n1部</strong>\n1．C of C　GM：オグリビー\n2．SW　GM：lunan\n3．サイキックハーツ　GM：灰月\n\n<strong>2部</strong>\n1．アルシャードセイヴァー　GM：カラン\n2．SW　GM：将軍\n3．システム無し　GM：K						

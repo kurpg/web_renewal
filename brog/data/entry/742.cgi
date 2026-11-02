@@ -1,1 +1,0 @@
-742	0	11月17日の活動	5	1353164399	0	1	0	0		+0900		0	1	2	1		<strong>11月17日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW2.0　GM：lunan\n2．パラダイス・フリート／パイレーツ　GM：初代ボブ\n\n<strong>1部＜単発＞</strong>\n1．ARA2E　GM：H\n\n<strong>2部</strong>\n1．SW　GM：Si\n2．C of C　GM：岩手\n3．Tremulus　GM：K						

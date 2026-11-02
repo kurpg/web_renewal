@@ -1,1 +1,0 @@
-525	0	６月１９日の活動	5	1276959599	0	1	0	0		+0900		0	1	2	1		<strong>６月１９日の活動</strong>\n\n<strong>１部（キャンペーン）</strong>\n\n１　ベーシック　ＧＭ：初代ボブ\n２　ソード・ワールド２．０　ＧＭ：カラン\n３　ギア・アンティーク　ＧＭ：灰月\n\n<strong>２部</strong>\n\n１　<a href="http://www.ku-rpg.org/brog/sb.cgi?eid=529" target="_blank">深淵</a>　ＧＭ：ムスカリア\n２　ソード・ワールド２．０　ＧＭ：蟻人\n３　Barbarinas of Lemuria　ＧＭ：Ｋ\n４　ルーンクエスト２nd　ＧＭ：すたあれいでぃい						

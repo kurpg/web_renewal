@@ -1,1 +1,0 @@
-230	0	１月６日の活動	5	1168009200	0	1	0	0		+0900		0	2	0	1		<strong>１月６日の活動</strong>（非公式例会）\n<strong>一部</strong>\n・テラ・ザ・ガンスリンガー　ＧＭ：赤ヘル\n・<a href="http://www.ku-rpg.org/brog/log/eid229.html">ソードワールド</a>　ＧＭ：みなべ\n\n<strong>二部</strong>\n・ソードワールド　ＧＭ：Ｋ\n・TORG　ＧＭ：小荒						

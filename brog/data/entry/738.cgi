@@ -1,1 +1,0 @@
-738	0	10月27日の活動	5	1351349999	0	1	0	0		+0900		0	1	2	1		<strong>10月27日の活動\n\n1部＜キャンペーン＞</strong>\n1．パラサイトブラッド　GM：羊羽\n2．ARA2E　GM：Jackson\n\n<strong>1部＜単発＞</strong>\n1．C of C　GM：桔梗\n\n<strong>2部</strong>\n1．SW2.0　GM：みらくる\n2．Tremulus　GM：K						

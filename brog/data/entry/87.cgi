@@ -1,1 +1,0 @@
-87	0	７月２３日の活動	5	1122044400	0	1	0	0		+0900		0	1	1	1		<strong>７月２３日の活動（非公式）</strong>\n\n<strong>１部</strong>\n・ソードワールド　ＧＭ：Ｍ\n・ナイトウィザード　ＧＭ：Ｒ\n<a href="http://www.ku-rpg.org/blog/log/eid88.html">・ペンギンライフ　ＧＭ：少年Ｋ</a>						

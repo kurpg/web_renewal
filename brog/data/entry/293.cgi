@@ -1,1 +1,0 @@
-293	0	１１月２４日の活動	5	1195830000	0	1	0	0		+0900		0	1	2	1		<strong>１１月２４日の活動</strong>\n\n<strong>１部</strong>\n\n１　ソードワールド　ＧＭ　ａｌｃｏｒ\n２　<a href="http://www.ku-rpg.org/brog/log/eid294.html">デモンパラサイト</a>　ＧＭ　灰月\n３　メガトラベラー　ＧＭ　小荒						

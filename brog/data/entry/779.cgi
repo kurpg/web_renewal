@@ -1,1 +1,0 @@
-779	0	3月30日の活動	5	1364612400	0	1	0	0		+0900		0	1	2	1		<strong>3月30日の活動\n\n非公式例会\n1部</strong>\n1．SW2.0　GM：lunan\n2．MG　GM：くず鉄のかかし\n3．13th Age　GM：K\n\n<strong>2部</strong>\n1．C of C　GM：Popee\n2．SW完全版　GM：S						

@@ -1,1 +1,0 @@
-610	0	３月１２日の活動	5	1299941999	0	1	0	0		+0900		0	1	2	1		<strong>３月１２日の活動</strong>\n\n<strong>１部</strong>\n\n１　放課後怪奇くらぶ　ＧＭ：岩手\n２　ソード・ワールド２.０　ＧＭ：mouser\n３　<a href="http://www.ku-rpg.org/brog/log/eid611.html" target="_blank">ソード・ワールド　ＧＭ：おあしす</a>\n４　ベーシック　ＧＭ：閉じ込めの壷\n５　オリジナル　ＧＭ：小荒\n\n<strong>２部</strong>\n\n追いコン						

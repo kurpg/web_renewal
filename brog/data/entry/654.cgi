@@ -1,1 +1,0 @@
-654	0	１０月２９日の活動		1319899202	0	1	0	0		+0900		0	1	2	1		<strong>１０月２９日の活動</strong>\n\n<strong>１部</strong>（キャンペーン）\n１ ソード・ワールド２．０　ＧＭ：あじゃり\n２ 蓬莱学園　ＧＭ：岩手\n３ Apocalypse World ＧＭ：Ｋ\n\n<strong>２部</strong>\n１ アリアンロッド２Ｅ　ＧＭ：怪竜\n２ Poison'd a pirate rpg　ＧＭ：Ｋ						

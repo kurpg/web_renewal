@@ -1,1 +1,0 @@
-513	0	５月８日の活動	5	1273330799	0	1	0	0		+0900		0	1	2	1		<strong>５月８日の活動</strong>\n\n<strong>１部</strong>\n\n１　<a href="http://www.ku-rpg.org/brog/log/eid514.html" target="_blank">PARANOIA xp</a>　ＧＭ：thormas\n２　ソード・ワールド２.０　ＧＭ：スルメイカ\n３　デモンパラサイト　ＧＭ：mouser\n４　ナイトウィザード２ｎｄ　ＧＭ：灰月\n５　クトゥルフの呼び声　ＧＭ：組長\n６　ダブルクロス３ｒｄ　ＧＭ：藤林啓一郎\n\n<strong>２部</strong>\n\n新歓コンパ						

@@ -1,1 +1,0 @@
-616	0	４月２日の活動	5	1301756399	0	1	0	0		+0900		0	1	2	1		<strong>４月２日の活動</strong>\n\n<strong>１部</strong>\n\n１ ダブルクロス3rd　ＧＭ：indefinite\n２ ソード・ワールド2.0　ＧＭ：Meisu\n３ ベルファール魔法学園 ＧＭ：Bluegrass\n\n\n<strong>２部</strong>\n\n１ クトゥルフの呼び声　ＧＭ：スルメイカ\n２ ソードワールド2.0　ＧＭ：mouser　						

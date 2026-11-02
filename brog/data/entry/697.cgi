@@ -1,1 +1,0 @@
-697	0	4月28日の活動	5	1335625199	0	1	0	0		+0900		0	1	2	1		<strong>4月28日の活動</strong>\n\n<strong>1部</strong>\n1.SW2.0　GM：カラン\n2.C of C　GM：スルメイカ\n3.パラサイトブラッド　GM：mouser\n4.C of C　GM：組長\n\n<strong>2部</strong>\n1.SW完全版　GM：Si\n2.NW2nd　GM：灰月\n3.<a href="http://www.ku-rpg.org/brog/admin.cgi?__mode=edit&eid=697" target="_blank">SW完全版　GM：蟻人</a>\n4.Lady Blackbird　GM：Ｋ						

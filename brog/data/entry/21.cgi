@@ -1,1 +1,0 @@
-21	0	２月２６日の活動	5	1109343600	0	1	0	0		+0900		0	1	1	1		<strong>１部</strong>\n・MAGE:The Ascension　ＧＭ：小荒\n・ベルファール魔法学園　ＧＭ：鉄禽\n<strong>２部</strong>\n・ガンダム戦記　ＧＭ：蟻人\n<a href="http://www.ku-rpg.org/blog/log/eid24.html">・真・女神転生II誕生編　ＧＭ：逆神</a>						

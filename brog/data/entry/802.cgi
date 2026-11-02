@@ -1,1 +1,0 @@
-802	0	8月31日の活動	5	1377918000	0	1	0	0		+0900		0	1	2	1		<strong>8月31日の活動\n\n＜非公式例会＞\n1部</strong>\n1．SW完全版　GM：Si\n2．サタスペ　GM：怪竜\n3．HERO WARS　GM：蟻人\n\n<strong>2部</strong>\n1．オリジナル　GM：meisu\n2．SW2.0　GM：白額虎\n3．SW完全版　GM：H						

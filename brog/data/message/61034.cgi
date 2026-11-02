@@ -1,1 +1,0 @@
-61034	0	922	1	1497009322	藤林	121.95.157.63	+0900			Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1	あまり「マッドマックス」風にできなかった。まだまだ至らず。					

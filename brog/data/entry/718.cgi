@@ -1,1 +1,0 @@
-718	0	8月4日の活動	5	1344092399	0	1	0	0		+0900		0	1	2	1		<strong>8月4日の活動\n\n非公式例会</strong>\n1．ARA2E　GM：怪竜\n<a href="http://www.ku-rpg.org/brog/sb.cgi?eid=714" target="_blank">2．PARANOIA Troubleshooters　GM：alcor</a>\n3．カオスフレアSC  GM：katala						

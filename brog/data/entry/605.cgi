@@ -1,1 +1,0 @@
-605	0	３月１日の活動	5	1298991599	0	1	0	0		+0900		0	1	2	1		<strong>３月１日の活動</strong>\n\n<strong>１部</strong>\n\n１　ソード・ワールド２.０　ＧＭ：thormas\n２　ソード・ワールド２.０　ＧＭ：ムスカリア\n３　<a href="http://www.ku-rpg.org/brog/log/eid609.html#sequel" target="_blank">ソード・ワールド</a>　ＧＭ：スルメイカ						

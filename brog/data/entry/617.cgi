@@ -1,1 +1,0 @@
-617	0	４月９日の活動	5	1302361199	0	1	0	0		+0900		0	1	2	1		<strong>４月９日の活動</strong>\n\n<strong>１部</strong>\n\n1 ソードワールド2.0 ＧＭ：あじゃり\n2 ソードワールド2.0 ＧＭ：怪竜\n3 ソードワールド2.0 ＧＭ：カラン\n\n<strong>２部</strong>\n\n1 <a href="http://www.ku-rpg.org/brog/log/eid615.html" target="_blank">ベーシック ＧＭ：岩手</a>\n2 ベルファール魔法学園 ＧＭ：takashi\n3 Old School Hack ＧＭ：K						

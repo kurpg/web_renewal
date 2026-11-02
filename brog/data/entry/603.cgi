@@ -1,1 +1,0 @@
-603	0	２月２６日の活動	5	1298732399	0	1	1	0		+0900		0	1	2	1		<strong>２月２６日の活動</strong>\n\n<strong>１部</strong>\n\n１　パラサイトブラッド　ＧＭ：怪竜\n２　<a href="http://www.ku-rpg.org/brog/log/eid596.html" target="_blank">パイレーツ！</a>　ＧＭ：ＤＡＷＮ\n３　ダブルクロス第３版　GM:藤林啓一郎\n\n<strong>２部</strong>\n\n１　エンゼルギア　ＧＭ：Ｋ\n２　Apocalypse World　ＧＭ：Ｋ\n３　ソード・ワールド　ＧＭ：Ｈ						

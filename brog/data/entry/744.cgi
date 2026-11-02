@@ -1,1 +1,0 @@
-744	0	12月1日の活動	5	1354373999	0	1	0	0		+0900		0	1	2	1		<strong>12月1日の活動</strong>\n\n<strong>1部＜キャンペーン＞</strong>\n1．パラサイトブラッド　GM：羊羽\n2．SW2.0　GM：lunan\n3．パラダイス・フリート／パイレーツ　GM：初代ボブ\n\n\n<strong>2部</strong>\n1．DX3rd　GM：オグリビー\n2．SW2.0　GM：くず鉄のかかし\n3．C of C　GM：岩手						

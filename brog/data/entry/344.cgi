@@ -1,1 +1,0 @@
-344	0	５月１０日の活動	5	1210431599	0	1	0	0		+0900		0	1	2	1		<strong>５月１０日の活動</strong>\n\n<strong>１部</strong>\n\n１　クトゥルフの呼び声　ＧＭ　Ｎ\n２　ブルーローズ　ＧＭ　クロ\n３　名探偵デュダ１　　ＧＭ　閉じこめの壷\n４　エンゼルギア　ＧＭ　ＤＡＷＮ\n５　<a href="http://www.ku-rpg.org/brog/log/eid347.html">ソードワールド２　ＧＭ　藤林啓一郎</a>\n\n<strong>２部</strong>\n\n新歓コンパ						

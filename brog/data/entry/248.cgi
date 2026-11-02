@@ -1,1 +1,0 @@
-248	0	５月１２日の活動	5	1178895600	0	1	0	0		+0900		0	1	2	1		<strong>５月１２日の活動</strong>（公式例会）\n<strong>一部</strong>\n・<a href="http://www.ku-rpg.org/brog/log/eid240.html">ナイトウィザード</a>　ＧＭ：クロ\n・幻奏戦記ルリルラ　ＧＭ：灰月\n・ベーシックＲＰＧ　ＧＭ：閉じ込めの壷\n・ダブルクロス２nd　ＧＭ：Ｏ\n・天羅ＷＡＲ　ＧＭ：藤林啓一郎\n\n<strong>二部</strong>\n新歓コンパ						

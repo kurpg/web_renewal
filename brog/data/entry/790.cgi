@@ -1,1 +1,0 @@
-790	0	6月1日の活動	5	1370055600	0	1	0	0		+0900		0	1	2	1		<strong>6月1日の活動\n\n1部＜キャンペーン＞</strong>\n1．SW2.0　GM：みらくる\n2．ALS　GM：akareon\n3．13th Age　GM：K\n4．HERO WARS　GM：初代ボブ\n5．SW完全版　GM：M\n\n<strong>2部</strong>\n1．ゲヘナAn　GM：怪竜\n2．Rune Quest　GM：O\n3．C of C　GM：W\n4．SW2.0　GM：オグリビー						

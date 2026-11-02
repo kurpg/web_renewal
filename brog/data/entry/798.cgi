@@ -1,1 +1,0 @@
-798	0	7月20日の活動	5	1374289200	0	1	0	0		+0900		0	1	2	1		<strong>7月20日の活動\n\n＜非公式例会＞\n1部</strong>\n1．ALS　GM：akareon\n2．C of C　GM：スルメイカ\n3．カードランカー　GM：みらくる\n\n<strong>2部</strong>\n1．C of C　GM：F\n2．深淵　GM：K\n3．大活劇　GM：H\n4．サタスペ　GM：怪竜						

@@ -1,1 +1,0 @@
-522	0	６月５日の活動	5	1275749999	0	1	0	0		+0900		0	1	2	1		<strong>６月５日の活動</strong>\n\n<strong>１部（キャンペーン）</strong>\n\n１　ベーシック　ＧＭ：初代ボブ\n２　ソード・ワールド２.０　ＧＭ：カラン\n３　ギア・アンティーク　ＧＭ：灰月\n\n<strong>２部</strong>\n\n１　<a href="http://www.ku-rpg.org/brog/log/eid521.html" target="_blank">ＧＵＲＰＳを参考にした何か</a>　ＧＭ：ムスカリア\n２　アリアンロッド　ＧＭ：mouser\n３　天羅ＷＡＲ　ＧＭ：赤へる\n４　シノビガミ　ＧＭ：katala						

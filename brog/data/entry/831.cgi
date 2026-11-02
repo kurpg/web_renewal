@@ -1,1 +1,0 @@
-831	0	1月18日の活動	5	1390014000	0	1	0	0		+0900		0	1	2	1		<strong>1月18日の活動\n\n＜非公式例会＞\n1部</strong>\n1．C of C　GM：crowbar\n2．SW2.0　GM：破損\n3．SW完全版　GM：H\n\n<strong>2部</strong>\n1．シノビガミ　GM：nece3\n2．C of C　GM：岩手						

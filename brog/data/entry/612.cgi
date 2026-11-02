@@ -1,1 +1,0 @@
-612	0	３月２６日の活動	5	1301151599	0	1	1	0		+0900		0	1	2	1		<strong>３月２６日の活動</strong>\n\n<strong>１部</strong>\n\n１　ソード・ワールド２.０　ＧＭ：あじゃり\n\n２　<a href="http://www.ku-rpg.org/brog/log/eid614.html" target="_blank">Mouse Guard　ＧＭ：Ｋ</a>						

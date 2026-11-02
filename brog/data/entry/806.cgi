@@ -1,1 +1,0 @@
-806	0	9月21日の活動	5	1379732400	0	1	0	0		+0900		0	1	2	1		<strong>9月21日の活動\n\n＜非公式例会＞\n1部</strong>\n1．C of C　GM：みらくる\n2．C of C　GM：ぼんた\n3．インセイン　GM：Si\n\n<strong>2部</strong>\n1．SW完全版　GM：Jackson\n2．Fate Core　GM：K\n3．戦国霊異伝　GM：H						

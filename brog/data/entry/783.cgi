@@ -1,1 +1,0 @@
-783	0	4月27日の活動	5	1367031600	0	1	0	0		+0900		0	1	2	1		<strong>4月27日の活動\n\n1部</strong>\n1．パラサイトブラッド　GM：羊羽\n2．NW2nd　GM：くず鉄のかかし\n3．13th Age　GM：K\n4．SW2.0　GM：オグリビー\n5．SW完全版　GM：Si\n\n<strong>2部</strong>\n1．大活劇　GM：H\n2．C of C　GM：岩手\n3．SW完全版　GM：初代ボブ\n4．ARA2E　GM：怪竜						

@@ -1,1 +1,0 @@
-635	0	７月１６日の活動	5	1310804394	0	1	0	0		+0900		0	1	2	1		<strong>７月１６日の活動</strong>\n\n<strong>１部</strong>\n１ マギカロギア　ＧＭ：怪竜\n２ メガトラベラー　ＧＭ：スルメイカ\n３ ＳＷ2.0　ＧＭ：meisu\n４ アリアンロッド　ＧＭ：Jackson\n\n<strong>２部</strong>\n１ World of Darkness　ＧＭ：初代ボブ\n２ ベーシック　ＧＭ：ムスカリア\n３ Ｄ＆Ｄ４ｅ　ＧＭ：灰月						

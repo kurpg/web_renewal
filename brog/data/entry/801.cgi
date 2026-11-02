@@ -1,1 +1,0 @@
-801	0	8月24日の活動	5	1377313200	0	1	0	0		+0900		0	1	2	1		<strong>8月24日の活動\n\n＜非公式例会＞\n1部</strong>\n1．メタリックガーディアンRPG　GM：くず鉄のかかし\n2．Pathfinder　GM：mouser\n3．SW2.0　GM：O\n\n<strong>2部</strong>\n1．Dungeon World　GM：K\n2．パイレーツ！　GM：初代ボブ						
